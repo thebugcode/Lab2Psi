@@ -1,0 +1,1080 @@
+TiCars
+v7
+r0
+t297318021.580180
+cCheck dependencies
+cProcessInfoPlistFile /Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app/Info.plist iCars-Info.plist
+cCompileXIB /Users/mac/Documents/iCars/MainWindow.xib
+cCompileXIB /Users/mac/Documents/iCars/iCarsViewController.xib
+cCpResource build/Debug-iphoneos/iCars.app/data.json data.json
+cProcessPCH /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch.gch iCars_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch.gch iCars_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/main.o /Users/mac/Documents/iCars/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/iCarsAppDelegate.o /Users/mac/Documents/iCars/Classes/iCarsAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/iCarsViewController.o /Users/mac/Documents/iCars/Classes/iCarsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/NSObject+SBJson.o /Users/mac/Documents/iCars/Classes/NSObject+SBJson.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonParser.o /Users/mac/Documents/iCars/Classes/SBJsonParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParser.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParserAccumulator.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAccumulator.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParserAdapter.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAdapter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParserState.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParserState.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamWriter.o /Users/mac/Documents/iCars/Classes/SBJsonStreamWriter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamWriterAccumulator.o /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterAccumulator.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamWriterState.o /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterState.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonTokeniser.o /Users/mac/Documents/iCars/Classes/SBJsonTokeniser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonUTF8Stream.o /Users/mac/Documents/iCars/Classes/SBJsonUTF8Stream.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonWriter.o /Users/mac/Documents/iCars/Classes/SBJsonWriter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/main.o /Users/mac/Documents/iCars/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/iCarsAppDelegate.o /Users/mac/Documents/iCars/Classes/iCarsAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/iCarsViewController.o /Users/mac/Documents/iCars/Classes/iCarsViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/NSObject+SBJson.o /Users/mac/Documents/iCars/Classes/NSObject+SBJson.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonParser.o /Users/mac/Documents/iCars/Classes/SBJsonParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParser.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParserAccumulator.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAccumulator.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParserAdapter.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAdapter.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParserState.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParserState.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamWriter.o /Users/mac/Documents/iCars/Classes/SBJsonStreamWriter.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamWriterAccumulator.o /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterAccumulator.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamWriterState.o /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterState.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonTokeniser.o /Users/mac/Documents/iCars/Classes/SBJsonTokeniser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonUTF8Stream.o /Users/mac/Documents/iCars/Classes/SBJsonUTF8Stream.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonWriter.o /Users/mac/Documents/iCars/Classes/SBJsonWriter.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004F77E9EA0000000000000132
+t1333258730
+s306
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/limits.h
+c000000004D09AC6C0000000000000C7E
+t1292479596
+s3198
+
+N/Users/mac/Documents/iCars/Classes/NSObject+SBJson.h
+c000000004E0CB11A00000000000008B7
+t1309454618
+s2231
+i<Foundation/Foundation.h>
+
+N/Users/mac/Documents/iCars/Classes/NSObject+SBJson.m
+c000000004E0CB11A00000000000008A6
+t1309454618
+s2214
+i"NSObject+SBJson.h"
+i"SBJsonWriter.h"
+i"SBJsonParser.h"
+
+N/Users/mac/Documents/iCars/Classes/SBJson.h
+c000000004E0CB11A0000000000000DA2
+t1309454618
+s3490
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"SBJsonStreamParser.h"
+i"SBJsonStreamParserAdapter.h"
+i"SBJsonStreamWriter.h"
+i"NSObject+SBJson.h"
+
+N/Users/mac/Documents/iCars/Classes/SBJsonParser.h
+c000000004E0CB11A0000000000000E0B
+t1309454618
+s3595
+i<Foundation/Foundation.h>
+
+N/Users/mac/Documents/iCars/Classes/SBJsonParser.m
+c000000004E0CB11A0000000000000CC0
+t1309454618
+s3264
+i"SBJsonParser.h"
+i"SBJsonStreamParser.h"
+i"SBJsonStreamParserAdapter.h"
+i"SBJsonStreamParserAccumulator.h"
+
+N/Users/mac/Documents/iCars/Classes/SBJsonStreamParser.h
+c000000004E0CB11A0000000000001611
+t1309454618
+s5649
+i<Foundation/Foundation.h>
+
+N/Users/mac/Documents/iCars/Classes/SBJsonStreamParser.m
+c000000004E0CB11A0000000000001A21
+t1309454618
+s6689
+i"SBJsonStreamParser.h"
+i"SBJsonTokeniser.h"
+i"SBJsonStreamParserState.h"
+i<limits.h>
+
+N/Users/mac/Documents/iCars/Classes/SBJsonStreamParserAccumulator.h
+c000000004E0CB11A00000000000006D7
+t1309454618
+s1751
+i<Foundation/Foundation.h>
+i"SBJsonStreamParserAdapter.h"
+
+N/Users/mac/Documents/iCars/Classes/SBJsonStreamParserAccumulator.m
+c000000004E0CB11A000000000000079B
+t1309454618
+s1947
+i"SBJsonStreamParserAccumulator.h"
+
+N/Users/mac/Documents/iCars/Classes/SBJsonStreamParserAdapter.h
+c000000004E0CB11A0000000000001467
+t1309454618
+s5223
+i<Foundation/Foundation.h>
+i"SBJsonStreamParser.h"
+
+N/Users/mac/Documents/iCars/Classes/SBJsonStreamParserAdapter.m
+c000000004E0CB11A00000000000011C9
+t1309454618
+s4553
+i"SBJsonStreamParserAdapter.h"
+
+N/Users/mac/Documents/iCars/Classes/SBJsonStreamParserState.h
+c000000004E0CB11A0000000000000B10
+t1309454618
+s2832
+i<Foundation/Foundation.h>
+i"SBJsonTokeniser.h"
+i"SBJsonStreamParser.h"
+
+N/Users/mac/Documents/iCars/Classes/SBJsonStreamParserState.m
+c000000004E0CB11A0000000000001F6D
+t1309454618
+s8045
+i"SBJsonStreamParserState.h"
+i"SBJsonStreamParser.h"
+
+N/Users/mac/Documents/iCars/Classes/SBJsonStreamWriter.h
+c000000004E0CB11A00000000000016CF
+t1309454618
+s5839
+i<Foundation/Foundation.h>
+
+N/Users/mac/Documents/iCars/Classes/SBJsonStreamWriter.m
+c000000004E0CB11A0000000000002994
+t1309454618
+s10644
+i"SBJsonStreamWriter.h"
+i"SBJsonStreamWriterState.h"
+
+N/Users/mac/Documents/iCars/Classes/SBJsonStreamWriterAccumulator.h
+c000000004E0CB11A00000000000006B2
+t1309454618
+s1714
+i"SBJsonStreamWriter.h"
+
+N/Users/mac/Documents/iCars/Classes/SBJsonStreamWriterAccumulator.m
+c000000004E0CB11A00000000000007EB
+t1309454618
+s2027
+i"SBJsonStreamWriterAccumulator.h"
+
+N/Users/mac/Documents/iCars/Classes/SBJsonStreamWriterState.h
+c000000004E0CB11A00000000000009EC
+t1309454618
+s2540
+i<Foundation/Foundation.h>
+
+N/Users/mac/Documents/iCars/Classes/SBJsonStreamWriterState.m
+c000000004E0CB11A0000000000000F61
+t1309454618
+s3937
+i"SBJsonStreamWriterState.h"
+i"SBJsonStreamWriter.h"
+
+N/Users/mac/Documents/iCars/Classes/SBJsonTokeniser.h
+c000000004E0CB11A000000000000089C
+t1309454618
+s2204
+i<Foundation/Foundation.h>
+
+N/Users/mac/Documents/iCars/Classes/SBJsonTokeniser.m
+c000000004E0CB11A000000000000317A
+t1309454618
+s12666
+i"SBJsonTokeniser.h"
+i"SBJsonUTF8Stream.h"
+
+N/Users/mac/Documents/iCars/Classes/SBJsonUTF8Stream.h
+c000000004E0CB11A000000000000082B
+t1309454618
+s2091
+i<Foundation/Foundation.h>
+
+N/Users/mac/Documents/iCars/Classes/SBJsonUTF8Stream.m
+c000000004E0CB11A0000000000000F25
+t1309454618
+s3877
+i"SBJsonUTF8Stream.h"
+
+N/Users/mac/Documents/iCars/Classes/SBJsonWriter.h
+c000000004E0CB11A00000000000010B6
+t1309454618
+s4278
+i<Foundation/Foundation.h>
+
+N/Users/mac/Documents/iCars/Classes/SBJsonWriter.m
+c000000004E0CB11A0000000000000DBF
+t1309454618
+s3519
+i"SBJsonWriter.h"
+i"SBJsonStreamWriter.h"
+i"SBJsonStreamWriterAccumulator.h"
+
+N/Users/mac/Documents/iCars/Classes/iCarsAppDelegate.h
+c000000004C0863F600000000000001C9
+t1275618294
+s457
+i<UIKit/UIKit.h>
+
+N/Users/mac/Documents/iCars/Classes/iCarsAppDelegate.m
+c000000004C0863F60000000000000A96
+t1275618294
+s2710
+i"iCarsAppDelegate.h"
+i"iCarsViewController.h"
+
+N/Users/mac/Documents/iCars/Classes/iCarsViewController.h
+c000000004C0875CA0000000000000186
+t1275622858
+s390
+i<UIKit/UIKit.h>
+
+N/Users/mac/Documents/iCars/Classes/iCarsViewController.m
+c000000004C087EFA0000000000000ED0
+t1275625210
+s3792
+i"iCarsViewController.h"
+i"SBJson.h"
+
+N/Users/mac/Documents/iCars/MainWindow.xib
+c000000004C0863F60000000000004E11
+t1275618294
+s19985
+
+N/Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app
+t2
+s0
+
+N/Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app.dSYM
+t2
+s0
+
+N/Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app/Info.plist
+t1275625211
+s771
+
+N/Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app/MainWindow.nib
+t1275625212
+s1119
+
+N/Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app/PkgInfo
+t1275625211
+s8
+
+N/Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app/data.json
+t1275625212
+s1408
+
+N/Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app/iCars
+t2
+s0
+
+N/Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app/iCarsViewController.nib
+t1275625212
+s1807
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/NSObject+SBJson.o
+t1275625215
+s9772
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonParser.o
+t1275625215
+s17816
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParser.o
+t1275625216
+s28644
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParserAccumulator.o
+t1275625216
+s10928
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParserAdapter.o
+t1275625216
+s25536
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParserState.o
+t1275625216
+s43272
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamWriter.o
+t1275625216
+s45980
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamWriterAccumulator.o
+t1275625216
+s11728
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamWriterState.o
+t1275625217
+s27424
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonTokeniser.o
+t1275625217
+s29172
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonUTF8Stream.o
+t1275625217
+s18772
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonWriter.o
+t1275625217
+s19968
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/iCars
+t2
+s0
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/iCars.LinkFileList
+c000000004C087EFB00000000000006B2
+t1275625211
+s1714
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/iCarsAppDelegate.o
+t1275625215
+s52860
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/iCarsViewController.o
+t2
+s0
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/main.o
+t1275625215
+s7348
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/NSObject+SBJson.o
+t1275625218
+s9772
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonParser.o
+t1275625218
+s17816
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParser.o
+t1275625219
+s28644
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParserAccumulator.o
+t1275625219
+s10928
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParserAdapter.o
+t1275625219
+s25536
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParserState.o
+t1275625219
+s43268
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamWriter.o
+t1275625220
+s45980
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamWriterAccumulator.o
+t1275625220
+s11724
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamWriterState.o
+t1275625221
+s27424
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonTokeniser.o
+t1275625221
+s29160
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonUTF8Stream.o
+t1275625221
+s18772
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonWriter.o
+t1275625221
+s19968
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/iCars
+t2
+s0
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/iCars.LinkFileList
+c000000004C087EFB00000000000006B2
+t1275625211
+s1714
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/iCarsAppDelegate.o
+t1275625218
+s52860
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/iCarsViewController.o
+t2
+s0
+
+N/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/main.o
+t1275625217
+s7348
+
+N/Users/mac/Documents/iCars/data.json
+c000000004FD166100000000000000580
+t1339123216
+s1408
+
+N/Users/mac/Documents/iCars/iCarsViewController.xib
+c000000004C0876CC0000000000004974
+t1275623116
+s18804
+
+N/Users/mac/Documents/iCars/iCars_Prefix.pch
+c000000004C0863F600000000000000B3
+t1275618294
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mac/Documents/iCars/main.m
+c000000004C0863F6000000000000015D
+t1275618294
+s349
+i<UIKit/UIKit.h>
+
+N/var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch.gch
+t1275625214
+s10188700
+
+N/var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch.gch
+t1275625215
+s10651548
+
+NiCars-Info.plist
+c000000004C0863F6000000000000038D
+t1275618294
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297318011#297318011#0(0"0(0#1#0"8590232192#0"0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/NSObject+SBJson.o /Users/mac/Documents/iCars/Classes/NSObject+SBJson.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318015.535460
+e297318015.778016
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/NSObject+SBJson.o
+x/Users/mac/Documents/iCars/Classes/NSObject+SBJson.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/mac/Documents/iCars/Classes/NSObject+SBJson.m297318015#297318015#0(0"0(0#0#52"/Users/mac/Documents/iCars/Classes/NSObject+SBJson.m8610794976#1585"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/NSObject+SBJson.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/NSObject+SBJson.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonParser.o /Users/mac/Documents/iCars/Classes/SBJsonParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318015.710531
+e297318015.999783
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonParser.o
+x/Users/mac/Documents/iCars/Classes/SBJsonParser.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/mac/Documents/iCars/Classes/SBJsonParser.m297318015#297318016#0(0"0(0#0#49"/Users/mac/Documents/iCars/Classes/SBJsonParser.m8618753248#1579"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonParser.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonParser.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParser.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318015.778104
+e297318016.092183
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParser.o
+x/Users/mac/Documents/iCars/Classes/SBJsonStreamParser.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/mac/Documents/iCars/Classes/SBJsonStreamParser.m297318015#297318016#0(0"0(0#0#55"/Users/mac/Documents/iCars/Classes/SBJsonStreamParser.m8616698816#1591"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonStreamParser.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParser.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParserAccumulator.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAccumulator.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318015.999878
+e297318016.261340
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParserAccumulator.o
+x/Users/mac/Documents/iCars/Classes/SBJsonStreamParserAccumulator.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAccumulator.m297318016#297318016#0(0"0(0#0#66"/Users/mac/Documents/iCars/Classes/SBJsonStreamParserAccumulator.m8617002976#1613"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAccumulator.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParserAccumulator.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParserAdapter.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAdapter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318016.092278
+e297318016.418220
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParserAdapter.o
+x/Users/mac/Documents/iCars/Classes/SBJsonStreamParserAdapter.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAdapter.m297318016#297318016#0(0"0(0#0#62"/Users/mac/Documents/iCars/Classes/SBJsonStreamParserAdapter.m8615997376#1605"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAdapter.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParserAdapter.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParserState.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParserState.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318016.261430
+e297318016.621003
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParserState.o
+x/Users/mac/Documents/iCars/Classes/SBJsonStreamParserState.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/mac/Documents/iCars/Classes/SBJsonStreamParserState.m297318016#297318016#0(0"0(0#0#60"/Users/mac/Documents/iCars/Classes/SBJsonStreamParserState.m8611340000#1601"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonStreamParserState.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamParserState.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamWriter.o /Users/mac/Documents/iCars/Classes/SBJsonStreamWriter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318016.418327
+e297318016.761229
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamWriter.o
+x/Users/mac/Documents/iCars/Classes/SBJsonStreamWriter.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/mac/Documents/iCars/Classes/SBJsonStreamWriter.m297318016#297318016#0(0"0(0#0#55"/Users/mac/Documents/iCars/Classes/SBJsonStreamWriter.m8618850944#1591"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonStreamWriter.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamWriter.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamWriterAccumulator.o /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterAccumulator.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318016.621281
+e297318016.884237
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamWriterAccumulator.o
+x/Users/mac/Documents/iCars/Classes/SBJsonStreamWriterAccumulator.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterAccumulator.m297318016#297318016#0(0"0(0#0#66"/Users/mac/Documents/iCars/Classes/SBJsonStreamWriterAccumulator.m8616004288#1613"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterAccumulator.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamWriterAccumulator.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamWriterState.o /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterState.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318016.761319
+e297318017.071856
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamWriterState.o
+x/Users/mac/Documents/iCars/Classes/SBJsonStreamWriterState.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterState.m297318016#297318017#0(0"0(0#0#60"/Users/mac/Documents/iCars/Classes/SBJsonStreamWriterState.m8614966688#1601"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterState.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonStreamWriterState.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonTokeniser.o /Users/mac/Documents/iCars/Classes/SBJsonTokeniser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318016.884356
+e297318017.229701
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonTokeniser.o
+x/Users/mac/Documents/iCars/Classes/SBJsonTokeniser.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/mac/Documents/iCars/Classes/SBJsonTokeniser.m297318016#297318017#0(0"0(0#0#52"/Users/mac/Documents/iCars/Classes/SBJsonTokeniser.m8599857024#1585"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonTokeniser.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonTokeniser.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonUTF8Stream.o /Users/mac/Documents/iCars/Classes/SBJsonUTF8Stream.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318017.071956
+e297318017.334746
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonUTF8Stream.o
+x/Users/mac/Documents/iCars/Classes/SBJsonUTF8Stream.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/mac/Documents/iCars/Classes/SBJsonUTF8Stream.m297318017#297318017#0(0"0(0#0#53"/Users/mac/Documents/iCars/Classes/SBJsonUTF8Stream.m8616893024#1587"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonUTF8Stream.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonUTF8Stream.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonWriter.o /Users/mac/Documents/iCars/Classes/SBJsonWriter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318017.229809
+e297318017.564391
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonWriter.o
+x/Users/mac/Documents/iCars/Classes/SBJsonWriter.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/mac/Documents/iCars/Classes/SBJsonWriter.m297318017#297318017#0(0"0(0#0#49"/Users/mac/Documents/iCars/Classes/SBJsonWriter.m8615871168#1579"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonWriter.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/SBJsonWriter.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/iCarsAppDelegate.o /Users/mac/Documents/iCars/Classes/iCarsAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318015.234246
+e297318015.535357
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/iCarsAppDelegate.o
+x/Users/mac/Documents/iCars/Classes/iCarsAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/mac/Documents/iCars/Classes/iCarsAppDelegate.m297318015#297318015#0(0"0(0#0#53"/Users/mac/Documents/iCars/Classes/iCarsAppDelegate.m8619750336#1587"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/iCarsAppDelegate.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/iCarsAppDelegate.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/iCarsViewController.o /Users/mac/Documents/iCars/Classes/iCarsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318015.482082
+e297318015.710323
+r0
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/iCarsViewController.o
+x/Users/mac/Documents/iCars/Classes/iCarsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m: In function '-[iCarsViewController parseJSONString]':
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: 'SBJson' undeclared (first use in this function)
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: (Each undeclared identifier is reported only once
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: for each function it appears in.)
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: 'parser' undeclared (first use in this function)
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:34: warning: unused variable 'fileContent'
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m: In function '-[iCarsViewController stream:handleEvent:]':
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: 'iCarsViewController' may not respond to '-parseJSONString:'
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: (Messages without a matching method signature
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: will be assumed to return 'id' and accept
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: '...' as arguments.)
+o{standard input}:285:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L22"
+o{standard input}:285:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:284:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L21"
+o{standard input}:284:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:283:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L20"
+o{standard input}:283:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:282:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L19"
+o{standard input}:282:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:281:non-relocatable subtraction expression, "L_NSDefaultRunLoopMode$non_lazy_ptr" minus "L18"
+o{standard input}:281:symbol: "L_NSDefaultRunLoopMode$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:280:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L17"
+o{standard input}:280:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:279:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L16"
+o{standard input}:279:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:278:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L15"
+o{standard input}:278:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:277:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L14"
+o{standard input}:277:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:276:non-relocatable subtraction expression, "L_NSDefaultRunLoopMode$non_lazy_ptr" minus "L13"
+o{standard input}:276:symbol: "L_NSDefaultRunLoopMode$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:275:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L12"
+o{standard input}:275:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:274:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L11"
+o{standard input}:274:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:273:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L10"
+o{standard input}:273:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:272:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L9"
+o{standard input}:272:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:271:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L8"
+o{standard input}:271:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:270:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L7"
+o{standard input}:270:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:269:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L6"
+o{standard input}:269:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:268:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L5"
+o{standard input}:268:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:267:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L4"
+o{standard input}:267:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:266:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L3"
+o{standard input}:266:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_CFStreamCreatePairWithSocketToHost$stub
+o{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_NSDefaultRunLoopMode$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+lSLF07#2@64"Compile /Users/mac/Documents/iCars/Classes/iCarsViewController.m297318015#297318015#0(6818"/Users/mac/Documents/iCars/Classes/iCarsViewController.m: In function '-[iCarsViewController parseJSONString]':/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: 'SBJson' undeclared (first use in this function)/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: (Each undeclared identifier is reported only once/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: for each function it appears in.)/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: 'parser' undeclared (first use in this function)/Users/mac/Documents/iCars/Classes/iCarsViewController.m:34: warning: unused variable 'fileContent'/Users/mac/Documents/iCars/Classes/iCarsViewController.m: In function '-[iCarsViewController stream:handleEvent:]':/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: 'iCarsViewController' may not respond to '-parseJSONString:'/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: (Messages without a matching method signature/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: will be assumed to return 'id' and accept/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: '...' as arguments.){standard input}:285:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L22"{standard input}:285:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:284:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L21"{standard input}:284:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:283:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L20"{standard input}:283:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:282:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L19"{standard input}:282:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:281:non-relocatable subtraction expression, "L_NSDefaultRunLoopMode$non_lazy_ptr" minus "L18"{standard input}:281:symbol: "L_NSDefaultRunLoopMode$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:280:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L17"{standard input}:280:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:279:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L16"{standard input}:279:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:278:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L15"{standard input}:278:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:277:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L14"{standard input}:277:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:276:non-relocatable subtraction expression, "L_NSDefaultRunLoopMode$non_lazy_ptr" minus "L13"{standard input}:276:symbol: "L_NSDefaultRunLoopMode$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:275:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L12"{standard input}:275:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:274:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L11"{standard input}:274:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:273:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L10"{standard input}:273:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:272:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L9"{standard input}:272:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:271:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L8"{standard input}:271:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:270:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L7"{standard input}:270:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:269:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L6"{standard input}:269:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:268:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L5"{standard input}:268:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:267:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L4"{standard input}:267:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:266:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L3"{standard input}:266:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_CFStreamCreatePairWithSocketToHost$stub{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_NSDefaultRunLoopMode$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_35(4@48"'SBJson' undeclared (first use in this function)297318015#112#117#0(6@56"/Users/mac/Documents/iCars/Classes/iCarsViewController.m297318010#36#0#36#0#43"'*' undeclared (first use in this function)0(4@48"'parser' undeclared (first use in this function)297318015#449#117#0(6@56"/Users/mac/Documents/iCars/Classes/iCarsViewController.m297318010#36#0#36#0#43"'*' undeclared (first use in this function)0(22@29"Unused variable 'fileContent'297318015#566#100#0(6@56"/Users/mac/Documents/iCars/Classes/iCarsViewController.m297318010#34#0#34#0#19"unused variable '*'0(22@60"'iCarsViewController' may not respond to '-parseJSONString:'297318015#782#131#0(6@56"/Users/mac/Documents/iCars/Classes/iCarsViewController.m297318010#68#0#68#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)297318015#913#116#0(6@56"/Users/mac/Documents/iCars/Classes/iCarsViewController.m297318010#68#0#68#0#0"0(0#0#56"/Users/mac/Documents/iCars/Classes/iCarsViewController.m8614385632#1593"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/iCarsViewController.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/iCarsViewController.o1#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/main.o /Users/mac/Documents/iCars/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318015.170121
+e297318015.481974
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/main.o
+x/Users/mac/Documents/iCars/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/mac/Documents/iCars/main.m297318015#297318015#0(0"0(0#0#33"/Users/mac/Documents/iCars/main.m8614965504#1555"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch -c /Users/mac/Documents/iCars/main.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/NSObject+SBJson.o /Users/mac/Documents/iCars/Classes/NSObject+SBJson.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318018.376862
+e297318018.792617
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/NSObject+SBJson.o
+x/Users/mac/Documents/iCars/Classes/NSObject+SBJson.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/mac/Documents/iCars/Classes/NSObject+SBJson.m297318018#297318019#0(0"0(0#0#52"/Users/mac/Documents/iCars/Classes/NSObject+SBJson.m8615538656#1585"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/NSObject+SBJson.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/NSObject+SBJson.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonParser.o /Users/mac/Documents/iCars/Classes/SBJsonParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318018.406460
+e297318018.876865
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonParser.o
+x/Users/mac/Documents/iCars/Classes/SBJsonParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/mac/Documents/iCars/Classes/SBJsonParser.m297318018#297318019#0(0"0(0#0#49"/Users/mac/Documents/iCars/Classes/SBJsonParser.m8615361184#1579"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonParser.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonParser.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParser.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318018.792709
+e297318019.321202
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParser.o
+x/Users/mac/Documents/iCars/Classes/SBJsonStreamParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/mac/Documents/iCars/Classes/SBJsonStreamParser.m297318018#297318019#0(0"0(0#0#55"/Users/mac/Documents/iCars/Classes/SBJsonStreamParser.m8616276960#1591"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonStreamParser.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParser.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParserAccumulator.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAccumulator.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318018.876968
+e297318019.300252
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParserAccumulator.o
+x/Users/mac/Documents/iCars/Classes/SBJsonStreamParserAccumulator.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAccumulator.m297318018#297318019#0(0"0(0#0#66"/Users/mac/Documents/iCars/Classes/SBJsonStreamParserAccumulator.m8615489504#1613"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAccumulator.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParserAccumulator.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParserAdapter.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAdapter.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318019.300349
+e297318019.757113
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParserAdapter.o
+x/Users/mac/Documents/iCars/Classes/SBJsonStreamParserAdapter.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAdapter.m297318019#297318019#0(0"0(0#0#62"/Users/mac/Documents/iCars/Classes/SBJsonStreamParserAdapter.m8614702656#1605"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonStreamParserAdapter.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParserAdapter.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParserState.o /Users/mac/Documents/iCars/Classes/SBJsonStreamParserState.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318019.321393
+e297318019.802122
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParserState.o
+x/Users/mac/Documents/iCars/Classes/SBJsonStreamParserState.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/mac/Documents/iCars/Classes/SBJsonStreamParserState.m297318019#297318019#0(0"0(0#0#60"/Users/mac/Documents/iCars/Classes/SBJsonStreamParserState.m8612748256#1601"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonStreamParserState.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamParserState.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamWriter.o /Users/mac/Documents/iCars/Classes/SBJsonStreamWriter.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318019.757202
+e297318020.852783
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamWriter.o
+x/Users/mac/Documents/iCars/Classes/SBJsonStreamWriter.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/mac/Documents/iCars/Classes/SBJsonStreamWriter.m297318019#297318020#0(0"0(0#0#55"/Users/mac/Documents/iCars/Classes/SBJsonStreamWriter.m8617043648#1591"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonStreamWriter.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamWriter.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamWriterAccumulator.o /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterAccumulator.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318019.802242
+e297318020.435010
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamWriterAccumulator.o
+x/Users/mac/Documents/iCars/Classes/SBJsonStreamWriterAccumulator.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterAccumulator.m297318019#297318020#0(0"0(0#0#66"/Users/mac/Documents/iCars/Classes/SBJsonStreamWriterAccumulator.m8616365344#1613"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterAccumulator.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamWriterAccumulator.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamWriterState.o /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterState.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318020.435988
+e297318021.084404
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamWriterState.o
+x/Users/mac/Documents/iCars/Classes/SBJsonStreamWriterState.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterState.m297318020#297318021#0(0"0(0#0#60"/Users/mac/Documents/iCars/Classes/SBJsonStreamWriterState.m8618291680#1601"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonStreamWriterState.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonStreamWriterState.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonTokeniser.o /Users/mac/Documents/iCars/Classes/SBJsonTokeniser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318020.852886
+e297318021.286395
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonTokeniser.o
+x/Users/mac/Documents/iCars/Classes/SBJsonTokeniser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/mac/Documents/iCars/Classes/SBJsonTokeniser.m297318020#297318021#0(0"0(0#0#52"/Users/mac/Documents/iCars/Classes/SBJsonTokeniser.m8618813376#1585"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonTokeniser.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonTokeniser.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonUTF8Stream.o /Users/mac/Documents/iCars/Classes/SBJsonUTF8Stream.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318021.084506
+e297318021.496064
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonUTF8Stream.o
+x/Users/mac/Documents/iCars/Classes/SBJsonUTF8Stream.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/mac/Documents/iCars/Classes/SBJsonUTF8Stream.m297318021#297318021#0(0"0(0#0#53"/Users/mac/Documents/iCars/Classes/SBJsonUTF8Stream.m8616072800#1587"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonUTF8Stream.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonUTF8Stream.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonWriter.o /Users/mac/Documents/iCars/Classes/SBJsonWriter.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318021.287021
+e297318021.580080
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonWriter.o
+x/Users/mac/Documents/iCars/Classes/SBJsonWriter.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/mac/Documents/iCars/Classes/SBJsonWriter.m297318021#297318021#0(0"0(0#0#49"/Users/mac/Documents/iCars/Classes/SBJsonWriter.m8617095520#1579"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/SBJsonWriter.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/SBJsonWriter.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/iCarsAppDelegate.o /Users/mac/Documents/iCars/Classes/iCarsAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318017.564502
+e297318018.376609
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/iCarsAppDelegate.o
+x/Users/mac/Documents/iCars/Classes/iCarsAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/mac/Documents/iCars/Classes/iCarsAppDelegate.m297318017#297318018#0(0"0(0#0#53"/Users/mac/Documents/iCars/Classes/iCarsAppDelegate.m8618612384#1587"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/iCarsAppDelegate.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/iCarsAppDelegate.o0#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/iCarsViewController.o /Users/mac/Documents/iCars/Classes/iCarsViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318017.941152
+e297318018.405495
+r0
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/iCarsViewController.o
+x/Users/mac/Documents/iCars/Classes/iCarsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m: In function '-[iCarsViewController parseJSONString]':
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: 'SBJson' undeclared (first use in this function)
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: (Each undeclared identifier is reported only once
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: for each function it appears in.)
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: 'parser' undeclared (first use in this function)
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:34: warning: unused variable 'fileContent'
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m: In function '-[iCarsViewController stream:handleEvent:]':
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: 'iCarsViewController' may not respond to '-parseJSONString:'
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: (Messages without a matching method signature
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: will be assumed to return 'id' and accept
+o/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: '...' as arguments.)
+o{standard input}:284:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L22"
+o{standard input}:284:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:283:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L21"
+o{standard input}:283:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:282:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L20"
+o{standard input}:282:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:281:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L19"
+o{standard input}:281:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:280:non-relocatable subtraction expression, "L_NSDefaultRunLoopMode$non_lazy_ptr" minus "L18"
+o{standard input}:280:symbol: "L_NSDefaultRunLoopMode$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:279:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L17"
+o{standard input}:279:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:278:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L16"
+o{standard input}:278:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:277:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L15"
+o{standard input}:277:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:276:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L14"
+o{standard input}:276:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:275:non-relocatable subtraction expression, "L_NSDefaultRunLoopMode$non_lazy_ptr" minus "L13"
+o{standard input}:275:symbol: "L_NSDefaultRunLoopMode$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:274:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L12"
+o{standard input}:274:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:273:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L11"
+o{standard input}:273:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:272:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L10"
+o{standard input}:272:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:271:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L9"
+o{standard input}:271:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:270:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L8"
+o{standard input}:270:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:269:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L7"
+o{standard input}:269:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:268:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L6"
+o{standard input}:268:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:267:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L5"
+o{standard input}:267:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:266:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L4"
+o{standard input}:266:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:265:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L3"
+o{standard input}:265:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_CFStreamCreatePairWithSocketToHost$stub
+o{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_NSDefaultRunLoopMode$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+lSLF07#2@64"Compile /Users/mac/Documents/iCars/Classes/iCarsViewController.m297318017#297318018#0(6818"/Users/mac/Documents/iCars/Classes/iCarsViewController.m: In function '-[iCarsViewController parseJSONString]':/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: 'SBJson' undeclared (first use in this function)/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: (Each undeclared identifier is reported only once/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: for each function it appears in.)/Users/mac/Documents/iCars/Classes/iCarsViewController.m:36: error: 'parser' undeclared (first use in this function)/Users/mac/Documents/iCars/Classes/iCarsViewController.m:34: warning: unused variable 'fileContent'/Users/mac/Documents/iCars/Classes/iCarsViewController.m: In function '-[iCarsViewController stream:handleEvent:]':/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: 'iCarsViewController' may not respond to '-parseJSONString:'/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: (Messages without a matching method signature/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: will be assumed to return 'id' and accept/Users/mac/Documents/iCars/Classes/iCarsViewController.m:68: warning: '...' as arguments.){standard input}:284:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L22"{standard input}:284:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:283:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L21"{standard input}:283:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:282:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L20"{standard input}:282:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:281:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L19"{standard input}:281:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:280:non-relocatable subtraction expression, "L_NSDefaultRunLoopMode$non_lazy_ptr" minus "L18"{standard input}:280:symbol: "L_NSDefaultRunLoopMode$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:279:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L17"{standard input}:279:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:278:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L16"{standard input}:278:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:277:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L15"{standard input}:277:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:276:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L14"{standard input}:276:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:275:non-relocatable subtraction expression, "L_NSDefaultRunLoopMode$non_lazy_ptr" minus "L13"{standard input}:275:symbol: "L_NSDefaultRunLoopMode$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:274:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L12"{standard input}:274:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:273:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L11"{standard input}:273:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:272:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L10"{standard input}:272:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:271:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L9"{standard input}:271:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:270:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L8"{standard input}:270:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:269:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L7"{standard input}:269:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:268:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L6"{standard input}:268:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:267:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L5"{standard input}:267:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:266:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" minus "L4"{standard input}:266:symbol: "L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:265:non-relocatable subtraction expression, "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" minus "L3"{standard input}:265:symbol: "L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_CFStreamCreatePairWithSocketToHost$stub{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_iCarsViewController.inputStream$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_iCarsViewController.outputStream$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_NSDefaultRunLoopMode$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_35(4@48"'SBJson' undeclared (first use in this function)297318018#112#117#0(6@56"/Users/mac/Documents/iCars/Classes/iCarsViewController.m297318010#36#0#36#0#43"'*' undeclared (first use in this function)0(4@48"'parser' undeclared (first use in this function)297318018#449#117#0(6@56"/Users/mac/Documents/iCars/Classes/iCarsViewController.m297318010#36#0#36#0#43"'*' undeclared (first use in this function)0(22@29"Unused variable 'fileContent'297318018#566#100#0(6@56"/Users/mac/Documents/iCars/Classes/iCarsViewController.m297318010#34#0#34#0#19"unused variable '*'0(22@60"'iCarsViewController' may not respond to '-parseJSONString:'297318018#782#131#0(6@56"/Users/mac/Documents/iCars/Classes/iCarsViewController.m297318010#68#0#68#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)297318018#913#116#0(6@56"/Users/mac/Documents/iCars/Classes/iCarsViewController.m297318010#68#0#68#0#0"0(0#0#56"/Users/mac/Documents/iCars/Classes/iCarsViewController.m8616632352#1593"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch -c /Users/mac/Documents/iCars/Classes/iCarsViewController.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/iCarsViewController.o1#
+
+CCompileC build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/main.o /Users/mac/Documents/iCars/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318017.334837
+e297318017.941062
+r1
+xCompileC
+xbuild/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/main.o
+x/Users/mac/Documents/iCars/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/mac/Documents/iCars/main.m297318017#297318017#0(0"0(0#0#33"/Users/mac/Documents/iCars/main.m8614991168#1555"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -include /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch -c /Users/mac/Documents/iCars/main.m -o /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/mac/Documents/iCars/MainWindow.xib
+s297318011.619981
+e297318012.773194
+r1
+xCompileXIB
+x/Users/mac/Documents/iCars/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib297318011#297318012#0(0"0(0#0#41"/Users/mac/Documents/iCars/MainWindow.xib8619472192#504"    cd /Users/mac/Documents/iCars    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app/MainWindow.nib /Users/mac/Documents/iCars/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/mac/Documents/iCars/iCarsViewController.xib
+s297318011.621287
+e297318013.040571
+r1
+xCompileXIB
+x/Users/mac/Documents/iCars/iCarsViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@34"CompileXIB iCarsViewController.xib297318011#297318013#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#50"/Users/mac/Documents/iCars/iCarsViewController.xib8619117312#522"    cd /Users/mac/Documents/iCars    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app/iCarsViewController.nib /Users/mac/Documents/iCars/iCarsViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCpResource build/Debug-iphoneos/iCars.app/data.json data.json
+s297318012.773402
+e297318012.789274
+r1
+xCpResource
+xbuild/Debug-iphoneos/iCars.app/data.json
+xdata.json
+lSLF07#2@14"Copy data.json297318012#297318012#0(0"0(0#0#36"/Users/mac/Documents/iCars/data.json8616671552#415"    cd /Users/mac/Documents/iCars    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mac/Documents/iCars/data.json /Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app0#
+
+CCreateUniversalBinary /Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app/iCars normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app.dSYM /Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app/iCars
+r0
+
+CLd /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv6/iCars normal armv6
+r0
+
+CLd /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/Objects-normal/armv7/iCars normal armv7
+r0
+
+CProcessInfoPlistFile /Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app/Info.plist iCars-Info.plist
+s297318011.576987
+e297318011.619869
+r1
+xProcessInfoPlistFile
+x/Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app/Info.plist
+xiCars-Info.plist
+lSLF07#2@24"Process iCars-Info.plist297318011#297318011#0(0"0(0#0#43"/Users/mac/Documents/iCars/iCars-Info.plist8615142144#409"    cd /Users/mac/Documents/iCars    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iCars-Info.plist -genpkginfo /Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -o /Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app/Info.plist0#
+
+CProcessPCH /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch.gch iCars_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297318013.040690
+e297318015.028304
+r1
+xProcessPCH
+x/var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch.gch
+xiCars_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile iCars_Prefix.pch297318013#297318015#0(0"0(0#0#43"/Users/mac/Documents/iCars/iCars_Prefix.pch8615483904#1467"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv6 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -c /Users/mac/Documents/iCars/iCars_Prefix.pch -o /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-etuiyguwbypvcneqgtaphjxvncij/iCars_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch.gch iCars_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297318013.045015
+e297318015.170015
+r1
+xProcessPCH
+x/var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch.gch
+xiCars_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile iCars_Prefix.pch297318013#297318015#0(0"0(0#0#43"/Users/mac/Documents/iCars/iCars_Prefix.pch8615347872#1467"    cd /Users/mac/Documents/iCars    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.1 -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-generated-files.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-own-target-headers.hmap -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-all-target-headers.hmap -iquote /Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/iCars-project-headers.hmap -F/Users/mac/Documents/iCars/build/Debug-iphoneos -I/Users/mac/Documents/iCars/build/Debug-iphoneos/include -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources/armv7 -I/Users/mac/Documents/iCars/build/iCars.build/Debug-iphoneos/iCars.build/DerivedSources -c /Users/mac/Documents/iCars/iCars_Prefix.pch -o /var/folders/dd/ddKRiPpaEsytg-iADroEN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCars_Prefix-ewwuilaqnzardfczibebiiwwajzv/iCars_Prefix.pch.gch0#
+
+CTouch /Users/mac/Documents/iCars/build/Debug-iphoneos/iCars.app
+r0
+

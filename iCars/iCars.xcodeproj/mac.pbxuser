@@ -1,0 +1,1185 @@
+// !$*UTF8*$!
+{
+	0411F2741598836A006EC6CA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iCarsViewController.m */;
+		name = "iCarsViewController.m: 236";
+		rLen = 0;
+		rLoc = 9583;
+		rType = 0;
+		vrLen = 1750;
+		vrLoc = 9026;
+	};
+	048259BE158B27E200119E5F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0489B7A51588B148002EFDA4 /* Opel.jpg */;
+	};
+	04825AE5158B3DFC00119E5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04825AE6158B3DFC00119E5F /* UIActionSheet.h */;
+		name = "UIActionSheet.h: 142";
+		rLen = 86;
+		rLoc = 6857;
+		rType = 0;
+		vrLen = 3162;
+		vrLoc = 4744;
+	};
+	04825AE6158B3DFC00119E5F /* UIActionSheet.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIActionSheet.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActionSheet.h;
+		sourceTree = "<absolute>";
+	};
+	04825AE7158B3DFC00119E5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04825AE8158B3DFC00119E5F /* UIAlertView.h */;
+		name = "UIAlertView.h: 119";
+		rLen = 86;
+		rLoc = 5007;
+		rType = 0;
+		vrLen = 2756;
+		vrLoc = 3260;
+	};
+	04825AE8158B3DFC00119E5F /* UIAlertView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIAlertView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h;
+		sourceTree = "<absolute>";
+	};
+	04825B31158B426000119E5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* iCars_Prefix.pch */;
+		name = "iCars_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 179;
+		vrLoc = 0;
+	};
+	04825B34158B426000119E5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04825B35158B426000119E5F /* CFNumber.h */;
+		name = "CFNumber.h: 44";
+		rLen = 33;
+		rLoc = 1073;
+		rType = 0;
+		vrLen = 1236;
+		vrLoc = 0;
+	};
+	04825B35158B426000119E5F /* CFNumber.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CFNumber.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFNumber.h;
+		sourceTree = "<absolute>";
+	};
+	0482B03B158A250C00F1A9DA /* FilterScreen.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 975}}";
+			sepNavSelRange = "{860, 0}";
+			sepNavVisRange = "{0, 1552}";
+		};
+	};
+	0482B03C158A250C00F1A9DA /* FilterScreen.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1426, 3666}}";
+			sepNavSelRange = "{6201, 285}";
+			sepNavVisRange = "{5842, 1941}";
+			sepNavWindowFrame = "{{15, 360}, {843, 637}}";
+		};
+	};
+	0482B089158A2A2F00F1A9DA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0462D8A11586879400294A48 /* Volkswagen.jpg */;
+	};
+	0482B08A158A2A2F00F1A9DA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0462D89E1586879300294A48 /* Dacia.jpg */;
+	};
+	0486092F11B89B760045F688 /* iCars */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iCars;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	0486094111B89B8C0045F688 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0486094211B89B8C0045F688 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	04869B7D15962E1D001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04938493158621ED00F7CB94 /* SegmentsController.h */;
+		name = "SegmentsController.h: 17";
+		rLen = 0;
+		rLoc = 367;
+		rType = 0;
+		vrLen = 794;
+		vrLoc = 0;
+	};
+	04869B7E15962E1D001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04938494158621ED00F7CB94 /* SegmentsController.m */;
+		name = "SegmentsController.m: 18";
+		rLen = 0;
+		rLoc = 480;
+		rType = 0;
+		vrLen = 1309;
+		vrLoc = 3;
+	};
+	04869BAD159630F2001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0493859E1586331C00F7CB94 /* NSArray+PerformSelector.m */;
+		name = "NSArray+PerformSelector.m: 7";
+		rLen = 0;
+		rLoc = 162;
+		rType = 0;
+		vrLen = 512;
+		vrLoc = 0;
+	};
+	04869BB0159630F2001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0489B6FA15889D0D002EFDA4 /* LoginScreen.m */;
+		name = "LoginScreen.m: 25";
+		rLen = 0;
+		rLoc = 576;
+		rType = 0;
+		vrLen = 1470;
+		vrLoc = 579;
+	};
+	04869BDE15964A60001E636A /* ComputeSumViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 726}}";
+			sepNavSelRange = "{347, 0}";
+			sepNavVisRange = "{0, 480}";
+		};
+	};
+	04869BDF15964A60001E636A /* ComputeSumViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1794}}";
+			sepNavSelRange = "{3608, 0}";
+			sepNavVisRange = "{3038, 1423}";
+			sepNavWindowFrame = "{{15, 360}, {843, 637}}";
+		};
+	};
+	04869BE615964A70001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0493864B1586421F00F7CB94 /* MasinaVanzareDetalii.h */;
+		name = "MasinaVanzareDetalii.h: 27";
+		rLen = 58;
+		rLoc = 598;
+		rType = 0;
+		vrLen = 1167;
+		vrLoc = 0;
+	};
+	04869BE715964A70001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0489B6F915889D0D002EFDA4 /* LoginScreen.h */;
+		name = "LoginScreen.h: 20";
+		rLen = 34;
+		rLoc = 494;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 0;
+	};
+	04869BF615964C5A001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0482B03C158A250C00F1A9DA /* FilterScreen.m */;
+		name = "FilterScreen.m: 171";
+		rLen = 285;
+		rLoc = 6201;
+		rType = 0;
+		vrLen = 1941;
+		vrLoc = 5842;
+	};
+	04869BF715964C5A001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0482B03B158A250C00F1A9DA /* FilterScreen.h */;
+		name = "FilterScreen.h: 32";
+		rLen = 0;
+		rLoc = 860;
+		rType = 0;
+		vrLen = 1552;
+		vrLoc = 0;
+	};
+	04869C1615964E81001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04FCB565158678FB00630465 /* MasinaVanduteDetalii.m */;
+		name = "MasinaVanduteDetalii.m: 14";
+		rLen = 0;
+		rLoc = 324;
+		rType = 0;
+		vrLen = 1555;
+		vrLoc = 0;
+	};
+	04869C1715964E81001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04FCB564158678FB00630465 /* MasinaVanduteDetalii.h */;
+		name = "MasinaVanduteDetalii.h: 21";
+		rLen = 0;
+		rLoc = 469;
+		rType = 0;
+		vrLen = 1107;
+		vrLoc = 0;
+	};
+	04869C2C15964F62001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89A9158BB20E0083A8DC /* iSoldCarsViewController.h */;
+		name = "iSoldCarsViewController.h: 24";
+		rLen = 0;
+		rLoc = 720;
+		rType = 0;
+		vrLen = 910;
+		vrLoc = 0;
+	};
+	04869C45159654AA001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0493859D1586331C00F7CB94 /* NSArray+PerformSelector.h */;
+		name = "NSArray+PerformSelector.h: 17";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 298;
+		vrLoc = 0;
+	};
+	04869C46159654AA001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* iCarsAppDelegate.h */;
+		name = "iCarsAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 495;
+		rType = 0;
+		vrLen = 561;
+		vrLoc = 0;
+	};
+	04869C47159654AA001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iCarsAppDelegate.m */;
+		name = "iCarsAppDelegate.m: 29";
+		rLen = 108;
+		rLoc = 543;
+		rType = 0;
+		vrLen = 1615;
+		vrLoc = 2811;
+	};
+	04869C4A159654AA001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89B7158BB3920083A8DC /* FilterDateViewController.m */;
+		name = "FilterDateViewController.m: 167";
+		rLen = 319;
+		rLoc = 3756;
+		rType = 0;
+		vrLen = 1555;
+		vrLoc = 5501;
+	};
+	04869C4B159654AA001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89B6158BB3920083A8DC /* FilterDateViewController.h */;
+		name = "FilterDateViewController.h: 17";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 1083;
+		vrLoc = 0;
+	};
+	04869D1015965CEF001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04869BDE15964A60001E636A /* ComputeSumViewController.h */;
+		name = "ComputeSumViewController.h: 18";
+		rLen = 0;
+		rLoc = 347;
+		rType = 0;
+		vrLen = 480;
+		vrLoc = 0;
+	};
+	04869D2A15965E23001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04869BDF15964A60001E636A /* ComputeSumViewController.m */;
+		name = "ComputeSumViewController.m: 76";
+		rLen = 0;
+		rLoc = 2732;
+		rType = 0;
+		vrLen = 1993;
+		vrLoc = 1720;
+	};
+	04869D2D15965E23001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0489B7B11588B819002EFDA4 /* NetworkCommunicator.h */;
+		name = "NetworkCommunicator.h: 15";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 603;
+		vrLoc = 0;
+	};
+	04869D2E15965E23001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iCarsViewController.h */;
+		name = "iCarsViewController.h: 27";
+		rLen = 0;
+		rLoc = 786;
+		rType = 0;
+		vrLen = 787;
+		vrLoc = 0;
+	};
+	04869D3915965F6A001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89AA158BB20E0083A8DC /* iSoldCarsViewController.m */;
+		name = "iSoldCarsViewController.m: 257";
+		rLen = 61;
+		rLoc = 10460;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 10363;
+	};
+	04869D3A15965F6A001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0489B7B21588B819002EFDA4 /* NetworkCommunicator.m */;
+		name = "NetworkCommunicator.m: 21";
+		rLen = 0;
+		rLoc = 461;
+		rType = 0;
+		vrLen = 1278;
+		vrLoc = 275;
+	};
+	04869D3B15965F6A001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iCarsViewController.m */;
+		name = "iCarsViewController.m: 228";
+		rLen = 0;
+		rLoc = 9406;
+		rType = 0;
+		vrLen = 1923;
+		vrLoc = 7713;
+	};
+	04869D3C15965F6A001E636A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iCarsViewController.m */;
+		name = "iCarsViewController.m: 219";
+		rLen = 0;
+		rLoc = 9025;
+		rType = 0;
+		vrLen = 1921;
+		vrLoc = 7713;
+	};
+	0487F2E51596FDE8001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iCarsViewController.m */;
+		name = "iCarsViewController.m: 219";
+		rLen = 0;
+		rLoc = 9025;
+		rType = 0;
+		vrLen = 1964;
+		vrLoc = 7670;
+	};
+	0487F2E61596FDE8001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iCarsAppDelegate.m */;
+		name = "iCarsAppDelegate.m: 29";
+		rLen = 108;
+		rLoc = 543;
+		rType = 0;
+		vrLen = 1615;
+		vrLoc = 2810;
+	};
+	0487F2E71596FDE8001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04869BDE15964A60001E636A /* ComputeSumViewController.h */;
+		name = "ComputeSumViewController.h: 18";
+		rLen = 0;
+		rLoc = 347;
+		rType = 0;
+		vrLen = 480;
+		vrLoc = 0;
+	};
+	0487F2E81596FDE8001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04869BDF15964A60001E636A /* ComputeSumViewController.m */;
+		name = "ComputeSumViewController.m: 134";
+		rLen = 0;
+		rLoc = 4393;
+		rType = 0;
+		vrLen = 1369;
+		vrLoc = 3038;
+	};
+	0487F2E91596FDE8001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04869BDF15964A60001E636A /* ComputeSumViewController.m */;
+		name = "ComputeSumViewController.m: 85";
+		rLen = 0;
+		rLoc = 3127;
+		rType = 0;
+		vrLen = 1423;
+		vrLoc = 3038;
+	};
+	0487F2FD1596FE5D001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 04869BDF15964A60001E636A /* ComputeSumViewController.m */;
+		name = "ComputeSumViewController.m: 98";
+		rLen = 0;
+		rLoc = 3608;
+		rType = 0;
+		vrLen = 1423;
+		vrLoc = 3038;
+	};
+	0487F2FE1596FE5D001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iCarsViewController.m */;
+		name = "iCarsViewController.m: 219";
+		rLen = 0;
+		rLoc = 9025;
+		rType = 0;
+		vrLen = 1963;
+		vrLoc = 7670;
+	};
+	0487F2FF1596FE5D001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iCarsViewController.m */;
+		name = "iCarsViewController.m: 235";
+		rLen = 0;
+		rLoc = 9583;
+		rType = 0;
+		vrLen = 1847;
+		vrLoc = 8015;
+	};
+	0487F3041596FECA001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iCarsViewController.m */;
+		name = "iCarsViewController.m: 236";
+		rLen = 0;
+		rLoc = 9644;
+		rType = 0;
+		vrLen = 1772;
+		vrLoc = 8015;
+	};
+	0487F3051596FECA001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89AA158BB20E0083A8DC /* iSoldCarsViewController.m */;
+		name = "iSoldCarsViewController.m: 257";
+		rLen = 61;
+		rLoc = 10460;
+		rType = 0;
+		vrLen = 1601;
+		vrLoc = 10320;
+	};
+	0487F3061596FECA001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89AA158BB20E0083A8DC /* iSoldCarsViewController.m */;
+		name = "iSoldCarsViewController.m: 41";
+		rLen = 0;
+		rLoc = 1090;
+		rType = 0;
+		vrLen = 1800;
+		vrLoc = 72;
+	};
+	0487F30C1596FF28001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89AA158BB20E0083A8DC /* iSoldCarsViewController.m */;
+		name = "iSoldCarsViewController.m: 43";
+		rLen = 0;
+		rLoc = 1143;
+		rType = 0;
+		vrLen = 1763;
+		vrLoc = 72;
+	};
+	0487F30D1596FF28001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iCarsViewController.h */;
+		name = "iCarsViewController.h: 27";
+		rLen = 0;
+		rLoc = 786;
+		rType = 0;
+		vrLen = 787;
+		vrLoc = 0;
+	};
+	0487F30E1596FF28001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iCarsViewController.m */;
+		name = "iCarsViewController.m: 40";
+		rLen = 0;
+		rLoc = 1052;
+		rType = 0;
+		vrLen = 2323;
+		vrLoc = 592;
+	};
+	0487F3191596FFCD001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iCarsAppDelegate.m */;
+		name = "iCarsAppDelegate.m: 39";
+		rLen = 0;
+		rLoc = 1046;
+		rType = 0;
+		vrLen = 740;
+		vrLoc = 873;
+	};
+	0487F31A1596FFCD001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incompatible Objective-C types 'struct NSArray *', expected 'struct NSMutableArray *' when passing argument 1 of 'setFilteredArrayOfCars:' from distinct Objective-C type";
+		fRef = 048C89AA158BB20E0083A8DC /* iSoldCarsViewController.m */;
+		rLen = 1;
+		rLoc = 125;
+		rType = 1;
+	};
+	0487F31B1596FFCD001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89AA158BB20E0083A8DC /* iSoldCarsViewController.m */;
+		name = "iSoldCarsViewController.m: 126";
+		rLen = 0;
+		rLoc = 5266;
+		rType = 0;
+		vrLen = 500;
+		vrLoc = 5013;
+	};
+	0487F31E1596FFF4001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89AA158BB20E0083A8DC /* iSoldCarsViewController.m */;
+		name = "iSoldCarsViewController.m: 126";
+		rLen = 0;
+		rLoc = 5266;
+		rType = 0;
+		vrLen = 500;
+		vrLoc = 5013;
+	};
+	0487F31F1596FFF4001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "No declaration of property 'actionSheet' found in the interface";
+		fRef = 048C89B7158BB3920083A8DC /* FilterDateViewController.m */;
+		rLen = 1;
+		rLoc = 12;
+		rType = 1;
+	};
+	0487F3201596FFF4001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89B7158BB3920083A8DC /* FilterDateViewController.m */;
+		name = "FilterDateViewController.m: 13";
+		rLen = 0;
+		rLoc = 209;
+		rType = 0;
+		vrLen = 569;
+		vrLoc = 66;
+	};
+	0487F3251597000D001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'actionSheet' undeclared (first use in this function)";
+		fRef = 048C89B7158BB3920083A8DC /* FilterDateViewController.m */;
+		rLen = 1;
+		rLoc = 190;
+		rType = 1;
+	};
+	0487F3261597000D001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89B7158BB3920083A8DC /* FilterDateViewController.m */;
+		name = "FilterDateViewController.m: 190";
+		rLen = 0;
+		rLoc = 5647;
+		rType = 0;
+		vrLen = 165;
+		vrLoc = 5516;
+	};
+	0487F32B15970021001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iCarsViewController.m */;
+		name = "iCarsViewController.m: 40";
+		rLen = 0;
+		rLoc = 1052;
+		rType = 0;
+		vrLen = 2323;
+		vrLoc = 592;
+	};
+	0487F32C15970021001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iCarsAppDelegate.m */;
+		name = "iCarsAppDelegate.m: 39";
+		rLen = 0;
+		rLoc = 1046;
+		rType = 0;
+		vrLen = 2369;
+		vrLoc = 193;
+	};
+	0487F32D15970021001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89B7158BB3920083A8DC /* FilterDateViewController.m */;
+		name = "FilterDateViewController.m: 191";
+		rLen = 0;
+		rLoc = 5706;
+		rType = 0;
+		vrLen = 1310;
+		vrLoc = 4407;
+	};
+	0487F32E15970021001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89B6158BB3920083A8DC /* FilterDateViewController.h */;
+		name = "FilterDateViewController.h: 29";
+		rLen = 0;
+		rLoc = 792;
+		rType = 0;
+		vrLen = 798;
+		vrLoc = 0;
+	};
+	0487F32F15970021001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89B6158BB3920083A8DC /* FilterDateViewController.h */;
+		name = "FilterDateViewController.h: 29";
+		rLen = 0;
+		rLoc = 792;
+		rType = 0;
+		vrLen = 798;
+		vrLoc = 0;
+	};
+	0487F342159700E1001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89B6158BB3920083A8DC /* FilterDateViewController.h */;
+		name = "FilterDateViewController.h: 28";
+		rLen = 0;
+		rLoc = 791;
+		rType = 0;
+		vrLen = 798;
+		vrLoc = 0;
+	};
+	0487F343159700E1001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89AA158BB20E0083A8DC /* iSoldCarsViewController.m */;
+		name = "iSoldCarsViewController.m: 43";
+		rLen = 0;
+		rLoc = 1143;
+		rType = 0;
+		vrLen = 1704;
+		vrLoc = 131;
+	};
+	0487F344159700E1001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89AA158BB20E0083A8DC /* iSoldCarsViewController.m */;
+		name = "iSoldCarsViewController.m: 264";
+		rLen = 0;
+		rLoc = 10832;
+		rType = 0;
+		vrLen = 1998;
+		vrLoc = 8940;
+	};
+	0487F348159701CA001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C89AA158BB20E0083A8DC /* iSoldCarsViewController.m */;
+		name = "iSoldCarsViewController.m: 284";
+		rLen = 0;
+		rLoc = 11150;
+		rType = 0;
+		vrLen = 1293;
+		vrLoc = 10899;
+	};
+	0487F349159701CA001DED25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iCarsViewController.m */;
+		name = "iCarsViewController.m: 236";
+		rLen = 0;
+		rLoc = 9583;
+		rType = 0;
+		vrLen = 1727;
+		vrLoc = 9049;
+	};
+	048881E111B8BE9200C46B91 /* SBJsonTokeniser.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = SBJsonTokeniser.h;
+		path = /Users/mac/Documents/iCars/Classes/SBJsonTokeniser.h;
+		sourceTree = "<absolute>";
+	};
+	048881F211B8BE9700C46B91 /* JSON.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = JSON.h;
+		path = /Users/mac/Documents/iCars/Classes/JSON.h;
+		sourceTree = "<absolute>";
+	};
+	0488824211B8C14000C46B91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048881E111B8BE9200C46B91 /* SBJsonTokeniser.h */;
+		name = "SBJsonTokeniser.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1151;
+		vrLoc = 0;
+	};
+	0488825411B8C2FC00C46B91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0488825511B8C2FC00C46B91 /* UITableViewCell.h */;
+		name = "UITableViewCell.h: 21";
+		rLen = 66;
+		rLoc = 873;
+		rType = 0;
+		vrLen = 1274;
+		vrLoc = 98;
+	};
+	0488825511B8C2FC00C46B91 /* UITableViewCell.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITableViewCell.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h;
+		sourceTree = "<absolute>";
+	};
+	0489B6F915889D0D002EFDA4 /* LoginScreen.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 707}}";
+			sepNavSelRange = "{494, 34}";
+			sepNavVisRange = "{0, 880}";
+		};
+	};
+	0489B6FA15889D0D002EFDA4 /* LoginScreen.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1079}}";
+			sepNavSelRange = "{576, 0}";
+			sepNavVisRange = "{579, 1470}";
+			sepNavWindowFrame = "{{15, 360}, {843, 637}}";
+		};
+	};
+	0489B7B11588B819002EFDA4 /* NetworkCommunicator.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 730}}";
+			sepNavSelRange = "{275, 0}";
+			sepNavVisRange = "{0, 603}";
+		};
+	};
+	0489B7B21588B819002EFDA4 /* NetworkCommunicator.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 1495}}";
+			sepNavSelRange = "{461, 0}";
+			sepNavVisRange = "{275, 1278}";
+		};
+	};
+	0489B7CA1588C01C002EFDA4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0489B7A21588B148002EFDA4 /* Toyota.jpg */;
+	};
+	0489B7CB1588C01C002EFDA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 349;
+		vrLoc = 0;
+	};
+	048C88E2158BAC350083A8DC /* Data.json */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 1209}}";
+			sepNavSelRange = "{795, 0}";
+			sepNavVisRange = "{629, 816}";
+			sepNavWindowFrame = "{{15, 360}, {843, 637}}";
+		};
+	};
+	048C8972158BB10E0083A8DC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iCars-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/mac/Documents/iCars/iCars-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	048C8974158BB10E0083A8DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0493854415862B6000F7CB94 /* SBJsonStreamParser.h */;
+		name = "SBJsonStreamParser.h: 105";
+		rLen = 0;
+		rLoc = 3507;
+		rType = 0;
+		vrLen = 1794;
+		vrLoc = 2615;
+	};
+	048C89A9158BB20E0083A8DC /* iSoldCarsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 730}}";
+			sepNavSelRange = "{720, 0}";
+			sepNavVisRange = "{0, 910}";
+		};
+	};
+	048C89AA158BB20E0083A8DC /* iSoldCarsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1314, 4290}}";
+			sepNavSelRange = "{11150, 0}";
+			sepNavVisRange = "{10899, 1293}";
+			sepNavWindowFrame = "{{130, 255}, {843, 637}}";
+		};
+	};
+	048C89B6158BB3920083A8DC /* FilterDateViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 726}}";
+			sepNavSelRange = "{791, 0}";
+			sepNavVisRange = "{0, 798}";
+			sepNavWindowFrame = "{{107, 276}, {843, 637}}";
+		};
+	};
+	048C89B7158BB3920083A8DC /* FilterDateViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 2535}}";
+			sepNavSelRange = "{5706, 0}";
+			sepNavVisRange = "{4407, 1310}";
+			sepNavWindowFrame = "{{152, 254}, {843, 637}}";
+		};
+	};
+	048EB7321588CC9600392331 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048EB7331588CC9600392331 /* UITextField.h */;
+		name = "UITextField.h: 184";
+		rLen = 0;
+		rLoc = 8063;
+		rType = 0;
+		vrLen = 2688;
+		vrLoc = 6177;
+	};
+	048EB7331588CC9600392331 /* UITextField.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITextField.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextField.h;
+		sourceTree = "<absolute>";
+	};
+	049384811586218100F7CB94 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048881F211B8BE9700C46B91 /* JSON.h */;
+		name = "JSON.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 277;
+		vrLoc = 0;
+	};
+	049384841586218100F7CB94 /* UISegmentedControl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UISegmentedControl.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UISegmentedControl.h;
+		sourceTree = "<absolute>";
+	};
+	04938490158621D900F7CB94 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 049384841586218100F7CB94 /* UISegmentedControl.h */;
+		name = "UISegmentedControl.h: 56";
+		rLen = 123;
+		rLoc = 1767;
+		rType = 0;
+		vrLen = 2336;
+		vrLoc = 1015;
+	};
+	04938493158621ED00F7CB94 /* SegmentsController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 482}}";
+			sepNavSelRange = "{367, 0}";
+			sepNavVisRange = "{0, 794}";
+		};
+	};
+	04938494158621ED00F7CB94 /* SegmentsController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 572}}";
+			sepNavSelRange = "{480, 0}";
+			sepNavVisRange = "{3, 1309}";
+		};
+	};
+	0493854415862B6000F7CB94 /* SBJsonStreamParser.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SBJsonStreamParser.h;
+		path = /Users/mac/Documents/iCars/SBJsonStreamParser.h;
+		sourceTree = "<absolute>";
+	};
+	0493859D1586331C00F7CB94 /* NSArray+PerformSelector.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 707}}";
+			sepNavSelRange = "{298, 0}";
+			sepNavVisRange = "{0, 298}";
+		};
+	};
+	0493859E1586331C00F7CB94 /* NSArray+PerformSelector.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 731}}";
+			sepNavSelRange = "{162, 0}";
+			sepNavVisRange = "{0, 512}";
+		};
+	};
+	0493864B1586421F00F7CB94 /* MasinaVanzareDetalii.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 707}}";
+			sepNavSelRange = "{598, 58}";
+			sepNavVisRange = "{0, 1167}";
+		};
+	};
+	0493864C1586421F00F7CB94 /* MasinaVanzareDetalii.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 923}}";
+			sepNavSelRange = "{1754, 0}";
+			sepNavVisRange = "{1106, 699}";
+			sepNavWindowFrame = "{{107, 276}, {843, 637}}";
+		};
+	};
+	04FCB564158678FB00630465 /* MasinaVanduteDetalii.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 730}}";
+			sepNavSelRange = "{469, 0}";
+			sepNavVisRange = "{0, 1107}";
+		};
+	};
+	04FCB565158678FB00630465 /* MasinaVanduteDetalii.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 871}}";
+			sepNavSelRange = "{324, 0}";
+			sepNavVisRange = "{0, 1555}";
+		};
+	};
+	04FCB75015946B2A001B70FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0493864C1586421F00F7CB94 /* MasinaVanzareDetalii.m */;
+		name = "MasinaVanzareDetalii.m: 14";
+		rLen = 20;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 870;
+		vrLoc = 749;
+	};
+	04FCB75715946B2A001B70FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 048C88E2158BAC350083A8DC /* Data.json */;
+		name = "Data.json: 11";
+		rLen = 0;
+		rLoc = 228;
+		rType = 0;
+		vrLen = 776;
+		vrLoc = 1094;
+	};
+	1D3623240D0F684500981E51 /* iCarsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 707}}";
+			sepNavSelRange = "{495, 0}";
+			sepNavVisRange = "{0, 561}";
+		};
+	};
+	1D3623250D0F684500981E51 /* iCarsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1755}}";
+			sepNavSelRange = "{1046, 0}";
+			sepNavVisRange = "{193, 2369}";
+			sepNavWindowFrame = "{{360, 77}, {843, 637}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iCars */ = {
+		activeExec = 0;
+		executables = (
+			0486092F11B89B760045F688 /* iCars */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* iCarsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 726}}";
+			sepNavSelRange = "{786, 0}";
+			sepNavVisRange = "{0, 787}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* iCarsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {914, 4017}}";
+			sepNavSelRange = "{9583, 0}";
+			sepNavVisRange = "{9026, 1750}";
+			sepNavWindowFrame = "{{480, 474}, {800, 528}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0486092F11B89B760045F688 /* iCars */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iCars */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iCars */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 0486094211B89B8C0045F688 /* Code sense */;
+		executables = (
+			0486092F11B89B760045F688 /* iCars */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					736,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					464,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 362316646;
+			PBXWorkspaceStateSaveDate = 362316646;
+		};
+		perUserProjectItems = {
+			0411F2741598836A006EC6CA /* PBXTextBookmark */ = 0411F2741598836A006EC6CA /* PBXTextBookmark */;
+			048259BE158B27E200119E5F = 048259BE158B27E200119E5F /* PBXBookmark */;
+			04825AE5158B3DFC00119E5F = 04825AE5158B3DFC00119E5F /* PBXTextBookmark */;
+			04825AE7158B3DFC00119E5F = 04825AE7158B3DFC00119E5F /* PBXTextBookmark */;
+			04825B31158B426000119E5F = 04825B31158B426000119E5F /* PBXTextBookmark */;
+			04825B34158B426000119E5F = 04825B34158B426000119E5F /* PBXTextBookmark */;
+			0482B089158A2A2F00F1A9DA = 0482B089158A2A2F00F1A9DA /* PBXBookmark */;
+			0482B08A158A2A2F00F1A9DA = 0482B08A158A2A2F00F1A9DA /* PBXBookmark */;
+			04869B7D15962E1D001E636A = 04869B7D15962E1D001E636A /* PBXTextBookmark */;
+			04869B7E15962E1D001E636A = 04869B7E15962E1D001E636A /* PBXTextBookmark */;
+			04869BAD159630F2001E636A = 04869BAD159630F2001E636A /* PBXTextBookmark */;
+			04869BB0159630F2001E636A = 04869BB0159630F2001E636A /* PBXTextBookmark */;
+			04869BE615964A70001E636A = 04869BE615964A70001E636A /* PBXTextBookmark */;
+			04869BE715964A70001E636A = 04869BE715964A70001E636A /* PBXTextBookmark */;
+			04869BF615964C5A001E636A = 04869BF615964C5A001E636A /* PBXTextBookmark */;
+			04869BF715964C5A001E636A = 04869BF715964C5A001E636A /* PBXTextBookmark */;
+			04869C1615964E81001E636A = 04869C1615964E81001E636A /* PBXTextBookmark */;
+			04869C1715964E81001E636A = 04869C1715964E81001E636A /* PBXTextBookmark */;
+			04869C2C15964F62001E636A = 04869C2C15964F62001E636A /* PBXTextBookmark */;
+			04869C45159654AA001E636A = 04869C45159654AA001E636A /* PBXTextBookmark */;
+			04869C46159654AA001E636A = 04869C46159654AA001E636A /* PBXTextBookmark */;
+			04869C47159654AA001E636A = 04869C47159654AA001E636A /* PBXTextBookmark */;
+			04869C4A159654AA001E636A = 04869C4A159654AA001E636A /* PBXTextBookmark */;
+			04869C4B159654AA001E636A = 04869C4B159654AA001E636A /* PBXTextBookmark */;
+			04869D1015965CEF001E636A = 04869D1015965CEF001E636A /* PBXTextBookmark */;
+			04869D2A15965E23001E636A = 04869D2A15965E23001E636A /* PBXTextBookmark */;
+			04869D2D15965E23001E636A = 04869D2D15965E23001E636A /* PBXTextBookmark */;
+			04869D2E15965E23001E636A = 04869D2E15965E23001E636A /* PBXTextBookmark */;
+			04869D3915965F6A001E636A = 04869D3915965F6A001E636A /* PBXTextBookmark */;
+			04869D3A15965F6A001E636A = 04869D3A15965F6A001E636A /* PBXTextBookmark */;
+			04869D3B15965F6A001E636A = 04869D3B15965F6A001E636A /* PBXTextBookmark */;
+			04869D3C15965F6A001E636A = 04869D3C15965F6A001E636A /* PBXTextBookmark */;
+			0487F2E51596FDE8001DED25 = 0487F2E51596FDE8001DED25 /* PBXTextBookmark */;
+			0487F2E61596FDE8001DED25 = 0487F2E61596FDE8001DED25 /* PBXTextBookmark */;
+			0487F2E71596FDE8001DED25 = 0487F2E71596FDE8001DED25 /* PBXTextBookmark */;
+			0487F2E81596FDE8001DED25 = 0487F2E81596FDE8001DED25 /* PBXTextBookmark */;
+			0487F2E91596FDE8001DED25 = 0487F2E91596FDE8001DED25 /* PBXTextBookmark */;
+			0487F2FD1596FE5D001DED25 = 0487F2FD1596FE5D001DED25 /* PBXTextBookmark */;
+			0487F2FE1596FE5D001DED25 = 0487F2FE1596FE5D001DED25 /* PBXTextBookmark */;
+			0487F2FF1596FE5D001DED25 = 0487F2FF1596FE5D001DED25 /* PBXTextBookmark */;
+			0487F3041596FECA001DED25 = 0487F3041596FECA001DED25 /* PBXTextBookmark */;
+			0487F3051596FECA001DED25 = 0487F3051596FECA001DED25 /* PBXTextBookmark */;
+			0487F3061596FECA001DED25 = 0487F3061596FECA001DED25 /* PBXTextBookmark */;
+			0487F30C1596FF28001DED25 = 0487F30C1596FF28001DED25 /* PBXTextBookmark */;
+			0487F30D1596FF28001DED25 = 0487F30D1596FF28001DED25 /* PBXTextBookmark */;
+			0487F30E1596FF28001DED25 = 0487F30E1596FF28001DED25 /* PBXTextBookmark */;
+			0487F3191596FFCD001DED25 = 0487F3191596FFCD001DED25 /* PBXTextBookmark */;
+			0487F31A1596FFCD001DED25 = 0487F31A1596FFCD001DED25 /* PBXTextBookmark */;
+			0487F31B1596FFCD001DED25 = 0487F31B1596FFCD001DED25 /* PBXTextBookmark */;
+			0487F31E1596FFF4001DED25 = 0487F31E1596FFF4001DED25 /* PBXTextBookmark */;
+			0487F31F1596FFF4001DED25 = 0487F31F1596FFF4001DED25 /* PBXTextBookmark */;
+			0487F3201596FFF4001DED25 = 0487F3201596FFF4001DED25 /* PBXTextBookmark */;
+			0487F3251597000D001DED25 = 0487F3251597000D001DED25 /* PBXTextBookmark */;
+			0487F3261597000D001DED25 = 0487F3261597000D001DED25 /* PBXTextBookmark */;
+			0487F32B15970021001DED25 = 0487F32B15970021001DED25 /* PBXTextBookmark */;
+			0487F32C15970021001DED25 = 0487F32C15970021001DED25 /* PBXTextBookmark */;
+			0487F32D15970021001DED25 = 0487F32D15970021001DED25 /* PBXTextBookmark */;
+			0487F32E15970021001DED25 = 0487F32E15970021001DED25 /* PBXTextBookmark */;
+			0487F32F15970021001DED25 = 0487F32F15970021001DED25 /* PBXTextBookmark */;
+			0487F342159700E1001DED25 = 0487F342159700E1001DED25 /* PBXTextBookmark */;
+			0487F343159700E1001DED25 = 0487F343159700E1001DED25 /* PBXTextBookmark */;
+			0487F344159700E1001DED25 = 0487F344159700E1001DED25 /* PBXTextBookmark */;
+			0487F348159701CA001DED25 = 0487F348159701CA001DED25 /* PBXTextBookmark */;
+			0487F349159701CA001DED25 = 0487F349159701CA001DED25 /* PBXTextBookmark */;
+			0488824211B8C14000C46B91 = 0488824211B8C14000C46B91 /* PBXTextBookmark */;
+			0488825411B8C2FC00C46B91 = 0488825411B8C2FC00C46B91 /* PBXTextBookmark */;
+			0489B7CA1588C01C002EFDA4 = 0489B7CA1588C01C002EFDA4 /* PBXBookmark */;
+			0489B7CB1588C01C002EFDA4 = 0489B7CB1588C01C002EFDA4 /* PBXTextBookmark */;
+			048C8972158BB10E0083A8DC = 048C8972158BB10E0083A8DC /* PlistBookmark */;
+			048C8974158BB10E0083A8DC = 048C8974158BB10E0083A8DC /* PBXTextBookmark */;
+			048EB7321588CC9600392331 = 048EB7321588CC9600392331 /* PBXTextBookmark */;
+			049384811586218100F7CB94 = 049384811586218100F7CB94 /* PBXTextBookmark */;
+			04938490158621D900F7CB94 = 04938490158621D900F7CB94 /* PBXTextBookmark */;
+			04FCB75015946B2A001B70FA = 04FCB75015946B2A001B70FA /* PBXTextBookmark */;
+			04FCB75715946B2A001B70FA = 04FCB75715946B2A001B70FA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0486094111B89B8C0045F688 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 669}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 349}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* iCars_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {989, 664}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 179}";
+		};
+	};
+}

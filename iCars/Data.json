@@ -1,0 +1,92 @@
+[
+{
+    "Caroserie" : "sedan",
+    "Producator" : "Mercedes",
+    "Model" : "C180",
+    "AnProductie" : 1999,
+    "VolumMotor" : 1800,
+    "Masa" : 2500,
+    "Categorie" : 0,
+    "Pret" : 8000 ,
+	"DataVanzare" : "2008-01-01"
+},
+{
+    "Caroserie" : "sedan",
+    "Producator" : "Mercedes",
+    "Model" : "C220",
+    "AnProductie" : 2003,
+    "VolumMotor" : 1999,
+    "Masa" : 2300,
+    "Categorie" : 0,
+    "Pret" : 7400
+},
+{
+    "Caroserie" : "berlina",
+    "Producator" : "Volkswagen",
+    "Model" : "Golf",
+    "AnProductie" : 2005,
+    "VolumMotor" : 1400,
+    "Masa" : 1900,
+    "Categorie" : 1,
+    "Pret" : 8500
+},
+{
+    "Caroserie" : "hatchback",
+    "Producator" : "Volkswagen",
+    "Model" : "Polo",
+    "AnProductie" : 2006,
+    "VolumMotor" : 1800,
+    "Masa" : 1600,
+    "Categorie" : 1,
+    "Pret" : 7400
+},
+{
+    "Caroserie" : "coupe",
+    "Producator" : "Opel",
+    "Model" : "Astra",
+    "AnProductie" : 2003,
+    "VolumMotor" : 1800,
+    "Masa" : 2000,
+    "Categorie" : 0,
+    "Pret" : 6500
+},
+{
+    "Caroserie" : "sedan",
+    "Producator" : "Dacia",
+    "Model" : "Logan",
+    "AnProductie" : 2008,
+    "VolumMotor" : 1600,
+    "Masa" : 1800,
+    "Categorie" : 0,
+    "Pret" : 7400
+},
+{
+    "Caroserie" : "sedan",
+    "Producator" : "Toyota",
+    "Model" : "Lexus",
+    "AnProductie" : 2009,
+    "VolumMotor" : 2900,
+    "Masa" : 3000,
+    "Categorie" : 0,
+    "Pret" : 34000
+},
+{
+    "Caroserie" : "sedan",
+    "Producator" : "BMW",
+    "Model" : "M3",
+    "AnProductie" : 2008,
+    "VolumMotor" : 2000,
+    "Masa" : 2400,
+    "Categorie" : 0,
+    "Pret" : 7600
+},
+{
+    "Caroserie" : "sedan",
+    "Producator" : "Volkswagen",
+    "Model" : "Polo",
+    "AnProductie" : 2006,
+    "VolumMotor" : 2000,
+    "Masa" : 2500,
+    "Categorie" : 0,
+    "Pret" : 6500
+}]

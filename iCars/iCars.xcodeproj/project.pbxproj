@@ -1,0 +1,504 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0462D8A21586879400294A48 /* Dacia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0462D89E1586879300294A48 /* Dacia.jpg */; };
+		0462D8A51586879400294A48 /* Volkswagen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0462D8A11586879400294A48 /* Volkswagen.jpg */; };
+		0482B03E158A250C00F1A9DA /* FilterScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 0482B03C158A250C00F1A9DA /* FilterScreen.m */; };
+		0482B03F158A250C00F1A9DA /* FilterScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0482B03D158A250C00F1A9DA /* FilterScreen.xib */; };
+		04869BE115964A60001E636A /* ComputeSumViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04869BDF15964A60001E636A /* ComputeSumViewController.m */; };
+		04869BE215964A61001E636A /* ComputeSumViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04869BE015964A60001E636A /* ComputeSumViewController.xib */; };
+		0489B6FC15889D0D002EFDA4 /* LoginScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 0489B6FA15889D0D002EFDA4 /* LoginScreen.m */; };
+		0489B6FD15889D0D002EFDA4 /* LoginScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0489B6FB15889D0D002EFDA4 /* LoginScreen.xib */; };
+		0489B7A71588B148002EFDA4 /* Toyota.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0489B7A21588B148002EFDA4 /* Toyota.jpg */; };
+		0489B7A81588B148002EFDA4 /* BMW.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0489B7A31588B148002EFDA4 /* BMW.jpg */; };
+		0489B7A91588B148002EFDA4 /* Mercedes-Benz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0489B7A41588B148002EFDA4 /* Mercedes-Benz.jpg */; };
+		0489B7AA1588B148002EFDA4 /* Opel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0489B7A51588B148002EFDA4 /* Opel.jpg */; };
+		0489B7B31588B819002EFDA4 /* NetworkCommunicator.m in Sources */ = {isa = PBXBuildFile; fileRef = 0489B7B21588B819002EFDA4 /* NetworkCommunicator.m */; };
+		048C88E3158BAC350083A8DC /* Data.json in Resources */ = {isa = PBXBuildFile; fileRef = 048C88E2158BAC350083A8DC /* Data.json */; };
+		048C8955158BB0980083A8DC /* NSObject+SBJson.m in Sources */ = {isa = PBXBuildFile; fileRef = 048C893D158BB0980083A8DC /* NSObject+SBJson.m */; };
+		048C8956158BB0980083A8DC /* SBJsonParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 048C8940158BB0980083A8DC /* SBJsonParser.m */; };
+		048C8957158BB0980083A8DC /* SBJsonStreamParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 048C8942158BB0980083A8DC /* SBJsonStreamParser.m */; };
+		048C8958158BB0980083A8DC /* SBJsonStreamParserAccumulator.m in Sources */ = {isa = PBXBuildFile; fileRef = 048C8944158BB0980083A8DC /* SBJsonStreamParserAccumulator.m */; };
+		048C8959158BB0980083A8DC /* SBJsonStreamParserAdapter.m in Sources */ = {isa = PBXBuildFile; fileRef = 048C8946158BB0980083A8DC /* SBJsonStreamParserAdapter.m */; };
+		048C895A158BB0980083A8DC /* SBJsonStreamParserState.m in Sources */ = {isa = PBXBuildFile; fileRef = 048C8948158BB0980083A8DC /* SBJsonStreamParserState.m */; };
+		048C895B158BB0980083A8DC /* SBJsonStreamWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 048C894A158BB0980083A8DC /* SBJsonStreamWriter.m */; };
+		048C895C158BB0980083A8DC /* SBJsonStreamWriterAccumulator.m in Sources */ = {isa = PBXBuildFile; fileRef = 048C894C158BB0980083A8DC /* SBJsonStreamWriterAccumulator.m */; };
+		048C895D158BB0980083A8DC /* SBJsonStreamWriterState.m in Sources */ = {isa = PBXBuildFile; fileRef = 048C894E158BB0980083A8DC /* SBJsonStreamWriterState.m */; };
+		048C895E158BB0980083A8DC /* SBJsonTokeniser.m in Sources */ = {isa = PBXBuildFile; fileRef = 048C8950158BB0980083A8DC /* SBJsonTokeniser.m */; };
+		048C895F158BB0980083A8DC /* SBJsonUTF8Stream.m in Sources */ = {isa = PBXBuildFile; fileRef = 048C8952158BB0980083A8DC /* SBJsonUTF8Stream.m */; };
+		048C8960158BB0980083A8DC /* SBJsonWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 048C8954158BB0980083A8DC /* SBJsonWriter.m */; };
+		048C89AB158BB20E0083A8DC /* iSoldCarsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 048C89AA158BB20E0083A8DC /* iSoldCarsViewController.m */; };
+		048C89B9158BB3920083A8DC /* FilterDateViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 048C89B7158BB3920083A8DC /* FilterDateViewController.m */; };
+		048C89BA158BB3920083A8DC /* FilterDateViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 048C89B8158BB3920083A8DC /* FilterDateViewController.xib */; };
+		04938495158621ED00F7CB94 /* SegmentsController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04938494158621ED00F7CB94 /* SegmentsController.m */; };
+		0493859F1586331C00F7CB94 /* NSArray+PerformSelector.m in Sources */ = {isa = PBXBuildFile; fileRef = 0493859E1586331C00F7CB94 /* NSArray+PerformSelector.m */; };
+		0493864E1586421F00F7CB94 /* MasinaVanzareDetalii.m in Sources */ = {isa = PBXBuildFile; fileRef = 0493864C1586421F00F7CB94 /* MasinaVanzareDetalii.m */; };
+		0493864F1586421F00F7CB94 /* MasinaVanzareDetalii.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0493864D1586421F00F7CB94 /* MasinaVanzareDetalii.xib */; };
+		04FCB567158678FB00630465 /* MasinaVanduteDetalii.m in Sources */ = {isa = PBXBuildFile; fileRef = 04FCB565158678FB00630465 /* MasinaVanduteDetalii.m */; };
+		04FCB568158678FB00630465 /* MasinaVanduteDetalii.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04FCB566158678FB00630465 /* MasinaVanduteDetalii.xib */; };
+		04FCB77015946D89001B70FA /* icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04FCB76F15946D89001B70FA /* icon.jpg */; };
+		1D3623260D0F684500981E51 /* iCarsAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* iCarsAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* iCarsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* iCarsViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0462D89E1586879300294A48 /* Dacia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Dacia.jpg; sourceTree = "<group>"; };
+		0462D8A11586879400294A48 /* Volkswagen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Volkswagen.jpg; sourceTree = "<group>"; };
+		0482B03B158A250C00F1A9DA /* FilterScreen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FilterScreen.h; sourceTree = "<group>"; };
+		0482B03C158A250C00F1A9DA /* FilterScreen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FilterScreen.m; sourceTree = "<group>"; };
+		0482B03D158A250C00F1A9DA /* FilterScreen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FilterScreen.xib; sourceTree = "<group>"; };
+		04869BDE15964A60001E636A /* ComputeSumViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ComputeSumViewController.h; sourceTree = "<group>"; };
+		04869BDF15964A60001E636A /* ComputeSumViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ComputeSumViewController.m; sourceTree = "<group>"; };
+		04869BE015964A60001E636A /* ComputeSumViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ComputeSumViewController.xib; sourceTree = "<group>"; };
+		0489B6F915889D0D002EFDA4 /* LoginScreen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginScreen.h; sourceTree = "<group>"; };
+		0489B6FA15889D0D002EFDA4 /* LoginScreen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginScreen.m; sourceTree = "<group>"; };
+		0489B6FB15889D0D002EFDA4 /* LoginScreen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoginScreen.xib; sourceTree = "<group>"; };
+		0489B7A21588B148002EFDA4 /* Toyota.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Toyota.jpg; sourceTree = "<group>"; };
+		0489B7A31588B148002EFDA4 /* BMW.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BMW.jpg; sourceTree = "<group>"; };
+		0489B7A41588B148002EFDA4 /* Mercedes-Benz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mercedes-Benz.jpg"; sourceTree = "<group>"; };
+		0489B7A51588B148002EFDA4 /* Opel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Opel.jpg; sourceTree = "<group>"; };
+		0489B7B11588B819002EFDA4 /* NetworkCommunicator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetworkCommunicator.h; sourceTree = "<group>"; };
+		0489B7B21588B819002EFDA4 /* NetworkCommunicator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetworkCommunicator.m; sourceTree = "<group>"; };
+		048C88E2158BAC350083A8DC /* Data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Data.json; sourceTree = "<group>"; };
+		048C893B158BB0980083A8DC /* JSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSON.h; sourceTree = "<group>"; };
+		048C893C158BB0980083A8DC /* NSObject+SBJson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+SBJson.h"; sourceTree = "<group>"; };
+		048C893D158BB0980083A8DC /* NSObject+SBJson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SBJson.m"; sourceTree = "<group>"; };
+		048C893E158BB0980083A8DC /* SBJson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJson.h; sourceTree = "<group>"; };
+		048C893F158BB0980083A8DC /* SBJsonParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonParser.h; sourceTree = "<group>"; };
+		048C8940158BB0980083A8DC /* SBJsonParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonParser.m; sourceTree = "<group>"; };
+		048C8941158BB0980083A8DC /* SBJsonStreamParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamParser.h; sourceTree = "<group>"; };
+		048C8942158BB0980083A8DC /* SBJsonStreamParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamParser.m; sourceTree = "<group>"; };
+		048C8943158BB0980083A8DC /* SBJsonStreamParserAccumulator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamParserAccumulator.h; sourceTree = "<group>"; };
+		048C8944158BB0980083A8DC /* SBJsonStreamParserAccumulator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamParserAccumulator.m; sourceTree = "<group>"; };
+		048C8945158BB0980083A8DC /* SBJsonStreamParserAdapter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamParserAdapter.h; sourceTree = "<group>"; };
+		048C8946158BB0980083A8DC /* SBJsonStreamParserAdapter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamParserAdapter.m; sourceTree = "<group>"; };
+		048C8947158BB0980083A8DC /* SBJsonStreamParserState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamParserState.h; sourceTree = "<group>"; };
+		048C8948158BB0980083A8DC /* SBJsonStreamParserState.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamParserState.m; sourceTree = "<group>"; };
+		048C8949158BB0980083A8DC /* SBJsonStreamWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamWriter.h; sourceTree = "<group>"; };
+		048C894A158BB0980083A8DC /* SBJsonStreamWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamWriter.m; sourceTree = "<group>"; };
+		048C894B158BB0980083A8DC /* SBJsonStreamWriterAccumulator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamWriterAccumulator.h; sourceTree = "<group>"; };
+		048C894C158BB0980083A8DC /* SBJsonStreamWriterAccumulator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamWriterAccumulator.m; sourceTree = "<group>"; };
+		048C894D158BB0980083A8DC /* SBJsonStreamWriterState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamWriterState.h; sourceTree = "<group>"; };
+		048C894E158BB0980083A8DC /* SBJsonStreamWriterState.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamWriterState.m; sourceTree = "<group>"; };
+		048C894F158BB0980083A8DC /* SBJsonTokeniser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonTokeniser.h; sourceTree = "<group>"; };
+		048C8950158BB0980083A8DC /* SBJsonTokeniser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonTokeniser.m; sourceTree = "<group>"; };
+		048C8951158BB0980083A8DC /* SBJsonUTF8Stream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonUTF8Stream.h; sourceTree = "<group>"; };
+		048C8952158BB0980083A8DC /* SBJsonUTF8Stream.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonUTF8Stream.m; sourceTree = "<group>"; };
+		048C8953158BB0980083A8DC /* SBJsonWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonWriter.h; sourceTree = "<group>"; };
+		048C8954158BB0980083A8DC /* SBJsonWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonWriter.m; sourceTree = "<group>"; };
+		048C89A9158BB20E0083A8DC /* iSoldCarsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = iSoldCarsViewController.h; path = Classes/iSoldCarsViewController.h; sourceTree = "<group>"; };
+		048C89AA158BB20E0083A8DC /* iSoldCarsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = iSoldCarsViewController.m; path = Classes/iSoldCarsViewController.m; sourceTree = "<group>"; };
+		048C89B6158BB3920083A8DC /* FilterDateViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FilterDateViewController.h; sourceTree = "<group>"; };
+		048C89B7158BB3920083A8DC /* FilterDateViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FilterDateViewController.m; sourceTree = "<group>"; };
+		048C89B8158BB3920083A8DC /* FilterDateViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FilterDateViewController.xib; sourceTree = "<group>"; };
+		04938493158621ED00F7CB94 /* SegmentsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SegmentsController.h; sourceTree = "<group>"; };
+		04938494158621ED00F7CB94 /* SegmentsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SegmentsController.m; sourceTree = "<group>"; };
+		0493859D1586331C00F7CB94 /* NSArray+PerformSelector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+PerformSelector.h"; sourceTree = "<group>"; };
+		0493859E1586331C00F7CB94 /* NSArray+PerformSelector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+PerformSelector.m"; sourceTree = "<group>"; };
+		0493864B1586421F00F7CB94 /* MasinaVanzareDetalii.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MasinaVanzareDetalii.h; sourceTree = "<group>"; };
+		0493864C1586421F00F7CB94 /* MasinaVanzareDetalii.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MasinaVanzareDetalii.m; sourceTree = "<group>"; };
+		0493864D1586421F00F7CB94 /* MasinaVanzareDetalii.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MasinaVanzareDetalii.xib; sourceTree = "<group>"; };
+		04FCB564158678FB00630465 /* MasinaVanduteDetalii.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MasinaVanduteDetalii.h; sourceTree = "<group>"; };
+		04FCB565158678FB00630465 /* MasinaVanduteDetalii.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MasinaVanduteDetalii.m; sourceTree = "<group>"; };
+		04FCB566158678FB00630465 /* MasinaVanduteDetalii.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MasinaVanduteDetalii.xib; sourceTree = "<group>"; };
+		04FCB76F15946D89001B70FA /* icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = icon.jpg; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* iCarsAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = iCarsAppDelegate.h; path = Classes/iCarsAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* iCarsAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = iCarsAppDelegate.m; path = Classes/iCarsAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* iCars.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iCars.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* iCarsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = iCarsViewController.h; path = Classes/iCarsViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* iCarsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = iCarsViewController.m; path = Classes/iCarsViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ../main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* iCars_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = iCars_Prefix.pch; path = ../iCars_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* iCars-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "iCars-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		04869BDD15964A2E001E636A /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				0489B6F915889D0D002EFDA4 /* LoginScreen.h */,
+				0489B6FA15889D0D002EFDA4 /* LoginScreen.m */,
+				0482B03B158A250C00F1A9DA /* FilterScreen.h */,
+				0482B03C158A250C00F1A9DA /* FilterScreen.m */,
+				048C89B6158BB3920083A8DC /* FilterDateViewController.h */,
+				048C89B7158BB3920083A8DC /* FilterDateViewController.m */,
+			);
+			name = "New Group";
+			sourceTree = "<group>";
+		};
+		0489B7AD1588B1FE002EFDA4 /* CarLogos */ = {
+			isa = PBXGroup;
+			children = (
+				04FCB76F15946D89001B70FA /* icon.jpg */,
+				0462D8A11586879400294A48 /* Volkswagen.jpg */,
+				0489B7A21588B148002EFDA4 /* Toyota.jpg */,
+				0489B7A31588B148002EFDA4 /* BMW.jpg */,
+				0489B7A41588B148002EFDA4 /* Mercedes-Benz.jpg */,
+				0489B7A51588B148002EFDA4 /* Opel.jpg */,
+				0462D89E1586879300294A48 /* Dacia.jpg */,
+			);
+			name = CarLogos;
+			sourceTree = "<group>";
+		};
+		0489B7AE1588B223002EFDA4 /* Delegate */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* iCarsAppDelegate.h */,
+				1D3623250D0F684500981E51 /* iCarsAppDelegate.m */,
+			);
+			name = Delegate;
+			sourceTree = "<group>";
+		};
+		0489B7B41588B825002EFDA4 /* DetaliiMasini */ = {
+			isa = PBXGroup;
+			children = (
+				0493864B1586421F00F7CB94 /* MasinaVanzareDetalii.h */,
+				0493864C1586421F00F7CB94 /* MasinaVanzareDetalii.m */,
+				04FCB564158678FB00630465 /* MasinaVanduteDetalii.h */,
+				04FCB565158678FB00630465 /* MasinaVanduteDetalii.m */,
+			);
+			name = DetaliiMasini;
+			sourceTree = "<group>";
+		};
+		0489B7B51588B833002EFDA4 /* Functionalitati */ = {
+			isa = PBXGroup;
+			children = (
+				0489B7B11588B819002EFDA4 /* NetworkCommunicator.h */,
+				0489B7B21588B819002EFDA4 /* NetworkCommunicator.m */,
+				0493859D1586331C00F7CB94 /* NSArray+PerformSelector.h */,
+				0493859E1586331C00F7CB94 /* NSArray+PerformSelector.m */,
+				04938493158621ED00F7CB94 /* SegmentsController.h */,
+				04938494158621ED00F7CB94 /* SegmentsController.m */,
+			);
+			name = Functionalitati;
+			sourceTree = "<group>";
+		};
+		0489B7B61588B841002EFDA4 /* TableViews */ = {
+			isa = PBXGroup;
+			children = (
+				048C89A9158BB20E0083A8DC /* iSoldCarsViewController.h */,
+				048C89AA158BB20E0083A8DC /* iSoldCarsViewController.m */,
+				28D7ACF60DDB3853001CB0EB /* iCarsViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* iCarsViewController.m */,
+			);
+			name = TableViews;
+			sourceTree = "<group>";
+		};
+		0493847215861C2D00F7CB94 /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				048C893B158BB0980083A8DC /* JSON.h */,
+				048C893C158BB0980083A8DC /* NSObject+SBJson.h */,
+				048C893D158BB0980083A8DC /* NSObject+SBJson.m */,
+				048C893E158BB0980083A8DC /* SBJson.h */,
+				048C893F158BB0980083A8DC /* SBJsonParser.h */,
+				048C8940158BB0980083A8DC /* SBJsonParser.m */,
+				048C8941158BB0980083A8DC /* SBJsonStreamParser.h */,
+				048C8942158BB0980083A8DC /* SBJsonStreamParser.m */,
+				048C8943158BB0980083A8DC /* SBJsonStreamParserAccumulator.h */,
+				048C8944158BB0980083A8DC /* SBJsonStreamParserAccumulator.m */,
+				048C8945158BB0980083A8DC /* SBJsonStreamParserAdapter.h */,
+				048C8946158BB0980083A8DC /* SBJsonStreamParserAdapter.m */,
+				048C8947158BB0980083A8DC /* SBJsonStreamParserState.h */,
+				048C8948158BB0980083A8DC /* SBJsonStreamParserState.m */,
+				048C8949158BB0980083A8DC /* SBJsonStreamWriter.h */,
+				048C894A158BB0980083A8DC /* SBJsonStreamWriter.m */,
+				048C894B158BB0980083A8DC /* SBJsonStreamWriterAccumulator.h */,
+				048C894C158BB0980083A8DC /* SBJsonStreamWriterAccumulator.m */,
+				048C894D158BB0980083A8DC /* SBJsonStreamWriterState.h */,
+				048C894E158BB0980083A8DC /* SBJsonStreamWriterState.m */,
+				048C894F158BB0980083A8DC /* SBJsonTokeniser.h */,
+				048C8950158BB0980083A8DC /* SBJsonTokeniser.m */,
+				048C8951158BB0980083A8DC /* SBJsonUTF8Stream.h */,
+				048C8952158BB0980083A8DC /* SBJsonUTF8Stream.m */,
+				048C8953158BB0980083A8DC /* SBJsonWriter.h */,
+				048C8954158BB0980083A8DC /* SBJsonWriter.m */,
+			);
+			name = JSON;
+			sourceTree = "<group>";
+		};
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				29B97316FDCFA39411CA2CEA /* main.m */,
+				32CA4F630368D1EE00C91783 /* iCars_Prefix.pch */,
+				0493847215861C2D00F7CB94 /* JSON */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* iCars.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				04869BDD15964A2E001E636A /* New Group */,
+				0489B7B61588B841002EFDA4 /* TableViews */,
+				0489B7B51588B833002EFDA4 /* Functionalitati */,
+				0489B7B41588B825002EFDA4 /* DetaliiMasini */,
+				0489B7AE1588B223002EFDA4 /* Delegate */,
+				04869BDE15964A60001E636A /* ComputeSumViewController.h */,
+				04869BDF15964A60001E636A /* ComputeSumViewController.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				048C88E2158BAC350083A8DC /* Data.json */,
+				0489B7AD1588B1FE002EFDA4 /* CarLogos */,
+				0482B03D158A250C00F1A9DA /* FilterScreen.xib */,
+				04869BE015964A60001E636A /* ComputeSumViewController.xib */,
+				048C89B8158BB3920083A8DC /* FilterDateViewController.xib */,
+				0489B6FB15889D0D002EFDA4 /* LoginScreen.xib */,
+				04FCB566158678FB00630465 /* MasinaVanduteDetalii.xib */,
+				0493864D1586421F00F7CB94 /* MasinaVanzareDetalii.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* iCars-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* iCars */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iCars" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iCars;
+			productName = iCars;
+			productReference = 1D6058910D05DD3D006BFB54 /* iCars.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iCars" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* iCars */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				0493864F1586421F00F7CB94 /* MasinaVanzareDetalii.xib in Resources */,
+				04FCB568158678FB00630465 /* MasinaVanduteDetalii.xib in Resources */,
+				0462D8A21586879400294A48 /* Dacia.jpg in Resources */,
+				0462D8A51586879400294A48 /* Volkswagen.jpg in Resources */,
+				0489B6FD15889D0D002EFDA4 /* LoginScreen.xib in Resources */,
+				0489B7A71588B148002EFDA4 /* Toyota.jpg in Resources */,
+				0489B7A81588B148002EFDA4 /* BMW.jpg in Resources */,
+				0489B7A91588B148002EFDA4 /* Mercedes-Benz.jpg in Resources */,
+				0489B7AA1588B148002EFDA4 /* Opel.jpg in Resources */,
+				0482B03F158A250C00F1A9DA /* FilterScreen.xib in Resources */,
+				048C88E3158BAC350083A8DC /* Data.json in Resources */,
+				048C89BA158BB3920083A8DC /* FilterDateViewController.xib in Resources */,
+				04FCB77015946D89001B70FA /* icon.jpg in Resources */,
+				04869BE215964A61001E636A /* ComputeSumViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* iCarsAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* iCarsViewController.m in Sources */,
+				04938495158621ED00F7CB94 /* SegmentsController.m in Sources */,
+				0493859F1586331C00F7CB94 /* NSArray+PerformSelector.m in Sources */,
+				0493864E1586421F00F7CB94 /* MasinaVanzareDetalii.m in Sources */,
+				04FCB567158678FB00630465 /* MasinaVanduteDetalii.m in Sources */,
+				0489B6FC15889D0D002EFDA4 /* LoginScreen.m in Sources */,
+				0489B7B31588B819002EFDA4 /* NetworkCommunicator.m in Sources */,
+				0482B03E158A250C00F1A9DA /* FilterScreen.m in Sources */,
+				048C8955158BB0980083A8DC /* NSObject+SBJson.m in Sources */,
+				048C8956158BB0980083A8DC /* SBJsonParser.m in Sources */,
+				048C8957158BB0980083A8DC /* SBJsonStreamParser.m in Sources */,
+				048C8958158BB0980083A8DC /* SBJsonStreamParserAccumulator.m in Sources */,
+				048C8959158BB0980083A8DC /* SBJsonStreamParserAdapter.m in Sources */,
+				048C895A158BB0980083A8DC /* SBJsonStreamParserState.m in Sources */,
+				048C895B158BB0980083A8DC /* SBJsonStreamWriter.m in Sources */,
+				048C895C158BB0980083A8DC /* SBJsonStreamWriterAccumulator.m in Sources */,
+				048C895D158BB0980083A8DC /* SBJsonStreamWriterState.m in Sources */,
+				048C895E158BB0980083A8DC /* SBJsonTokeniser.m in Sources */,
+				048C895F158BB0980083A8DC /* SBJsonUTF8Stream.m in Sources */,
+				048C8960158BB0980083A8DC /* SBJsonWriter.m in Sources */,
+				048C89AB158BB20E0083A8DC /* iSoldCarsViewController.m in Sources */,
+				048C89B9158BB3920083A8DC /* FilterDateViewController.m in Sources */,
+				04869BE115964A60001E636A /* ComputeSumViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iCars_Prefix.pch;
+				INFOPLIST_FILE = "iCars-Info.plist";
+				PRODUCT_NAME = iCars;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iCars_Prefix.pch;
+				INFOPLIST_FILE = "iCars-Info.plist";
+				PRODUCT_NAME = iCars;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "Don't Code Sign";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Don't Code Sign";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iCars" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iCars" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
