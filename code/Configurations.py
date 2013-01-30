@@ -11,7 +11,7 @@
 """ One does not simply make changes in this class """
 
 class server:
-  host = "192.168.1.104"
+  host = "127.0.0.1"
   port = 2707
   backlog = 5 # waiting queue length
   timeout = None

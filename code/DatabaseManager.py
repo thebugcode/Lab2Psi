@@ -49,11 +49,11 @@ class DatabaseManager:
                              "AnProductie":carArray[4],"VolumMotor":carArray[5],
                              "Pret":carArray[6],"Carburant":carArray[7],
                              "Link":carArray[8]}
-<<<<<<< HEAD
+
                 answer.append(CarObject.carObject(dictionary))
-=======
+
                 answer.append(CarObject.CarObject(dictionary))
->>>>>>> d527a5fd3827f2c2fb9f44de20e0952c03da58bb
+
         return answer
 
 
