@@ -12,33 +12,38 @@
 import unittest
 from JSONBuilder import JSONBuilder
 from CarObject import CarObject
+import socket
 
 class CarObjectTest(unittest.TestCase):
-  aDictionary = { "Producator":"Mercedes","Caroserie":"Sedan","Model":"C180",
-                  "AnProductie":1999,"VolumMotor":1800,"Pret":8000,
-                  "Carburant":"Benzina","Link":"http://www.google.ro"}
-  car = CarObject(aDictionary)
-  self.assertEqual(car._AnProductie, 1999)
-  self.assertEqual(car._Carburant, Benzina)
-  self.assertEqual(car._Pret, 8000)
+  def testCarObject(self):
+    aDictionary = { "Producator":"Mercedes","Caroserie":"Sedan","Model":"C180",
+                    "AnProductie":1999,"VolumMotor":1800,"Pret":8000,
+                    "Carburant":"Benzina","Link":"http://www.google.ro"}
+    car = CarObject(aDictionary)
+    self.assertEqual(car._AnProductie, 1999)
+    self.assertEqual(car._Carburant, "Benzina")
+    self.assertEqual(car._Pret, 8000)
 
 
 class JSONBuilderTest(unittest.TestCase):
   def testSum(self):
-    cars = []
     aDictionary = { "Producator":"Mercedes","Caroserie":"Sedan","Model":"C180",
                     "AnProductie":1999,"VolumMotor":1800,"Pret":8000,
                     "Carburant":"Benzina","Link":"http://www.google.ro" }
     car = CarObject(aDictionary)
-    cars.append(car)
+    self.assertEqual(car._AnProductie, 1999)
+    self.assertEqual(car._Carburant, "Benzina")
 
-    aDictionary = { "Producator":"BMW","Caroserie":"Sedan","Model":"M3",
-                    "AnProductie":1999,"VolumMotor":1800,"Pret":8000,
-                    "Carburant":"Diesel","Link":"http://www.google.ro" }
-    car = CarObject(dictionary)
-    cars.append(car)
+class ConnectionTest(unittest.TestCase):
+  def testConnection(self):
+    clientSocket = socket.socket()
+    clientSocket.connect(("localhost", 2707))
+    try:
+      msg = clientSocket.recv(1024)
+    except:
+      msg = "Error"
 
-    print JSONBuilder.getJSON(cars)
+    self.assertEqual(msg, "Welcome")
 
 if __name__ == '__main__':
   unittest.main()
